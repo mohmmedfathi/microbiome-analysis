@@ -1,6 +1,29 @@
 # Metagenomic Analysis Pipeline
 
 ![Figure4_README](https://user-images.githubusercontent.com/64088888/209128528-73c13ea8-35bc-44c5-bcb4-d155f562de17.jpg)
+## Download and install anaconda(version 3 recommended)
+### :beginner: Add channels
+
+```
+conda config --add channels conda-forge\
+conda config --add channels bioconda\
+conda config --add channels daler\
+conda config --add channels defaults\
+```
+### :beginner: Download the polishing tool pilon
+
+```
+mkdir apps\
+wget https://github.com/broadinstitute/pilon/releases/download/v1.23/pilon-1.23.jar -O apps/pilon.jar
+```
+### :beginner: Activate the analysis environment
+```
+source activate microbiomeENV
+```
+### :warning: Add permission to all scripts
+```
+chmod +x *.{sh}
+```
 
 ## pipeline step : 
 
