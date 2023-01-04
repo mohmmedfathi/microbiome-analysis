@@ -1,0 +1,1402 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3461121	3485176	1	24020	NC_020133.1	NODE_1_length_88090_cov_8.752203_pilon_pilon_pilon_pilon	99.36		True
+relocation, inconsistency = 1373
+3486550	3488799	24021	26270	NC_020133.1	NODE_1_length_88090_cov_8.752203_pilon_pilon_pilon_pilon	99.65		True
+relocation, inconsistency = 2819
+3491629	3552921	26281	87576	NC_020133.1	NODE_1_length_88090_cov_8.752203_pilon_pilon_pilon_pilon	99.68		True
+relocation, inconsistency = 251270
+3804192	3804705	88090	87577	NC_020133.1	NODE_1_length_88090_cov_8.752203_pilon_pilon_pilon_pilon	99.81		True
+CONTIG	NODE_1_length_88090_cov_8.752203_pilon_pilon_pilon_pilon	88090	misassembled
+5683413	5709547	1	26115	NC_020133.1	NODE_2_length_81468_cov_8.180143_pilon_pilon_pilon_pilon	99.53		True
+relocation, inconsistency = -234822
+5474726	5492276	26116	43587	NC_020133.1	NODE_2_length_81468_cov_8.180143_pilon_pilon_pilon_pilon	99.07		True
+relocation, inconsistency = 1376
+5493653	5531503	43588	81468	NC_020133.1	NODE_2_length_81468_cov_8.180143_pilon_pilon_pilon_pilon	99.52		True
+CONTIG	NODE_2_length_81468_cov_8.180143_pilon_pilon_pilon_pilon	81468	misassembled
+982417	1049725	136	67296	NC_020133.1	NODE_3_length_67426_cov_7.158561_pilon_pilon_pilon_pilon	99.42		True
+CONTIG	NODE_3_length_67426_cov_7.158561_pilon_pilon_pilon_pilon	67426	correct
+4267578	4316881	49454	126	NC_020133.1	NODE_4_length_65821_cov_7.341766_pilon_pilon_pilon_pilon	99.59		True
+relocation, inconsistency = 1376
+4261053	4266201	54606	49455	NC_020133.1	NODE_4_length_65821_cov_7.341766_pilon_pilon_pilon_pilon	99.42		True
+relocation, inconsistency = 2379
+4247459	4258673	65821	54607	NC_020133.1	NODE_4_length_65821_cov_7.341766_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_4_length_65821_cov_7.341766_pilon_pilon_pilon_pilon	65821	misassembled
+5138223	5170314	1	32203	NC_020133.1	NODE_5_length_54572_cov_7.470989_pilon_pilon_pilon_pilon	99.34		True
+relocation, inconsistency = 1055
+5171370	5186432	32204	47268	NC_020133.1	NODE_5_length_54572_cov_7.470989_pilon_pilon_pilon_pilon	99.73		True
+local misassembly
+5186808	5193696	47269	54157	NC_020133.1	NODE_5_length_54572_cov_7.470989_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_5_length_54572_cov_7.470989_pilon_pilon_pilon_pilon	54572	misassembled
+5920312	5944987	44768	20124	NC_020133.1	NODE_6_length_54179_cov_8.186802_pilon_pilon_pilon_pilon	99.54		True
+local misassembly
+5917996	5919994	46766	44769	NC_020133.1	NODE_6_length_54179_cov_8.186802_pilon_pilon_pilon_pilon	99.55		True
+relocation, inconsistency = -1655
+5912345	5916630	54072	49787	NC_020133.1	NODE_6_length_54179_cov_8.186802_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_6_length_54179_cov_8.186802_pilon_pilon_pilon_pilon	54179	misassembled
+404573	455603	125	51036	NC_020133.1	NODE_7_length_51036_cov_7.806262_pilon_pilon_pilon_pilon	99.31		True
+CONTIG	NODE_7_length_51036_cov_7.806262_pilon_pilon_pilon_pilon	51036	correct
+5720069	5768712	52	48691	NC_020133.1	NODE_8_length_48885_cov_8.042762_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_8_length_48885_cov_8.042762_pilon_pilon_pilon_pilon	48885	correct
+1305123	1353014	47967	1	NC_020133.1	NODE_9_length_48092_cov_7.281726_pilon_pilon_pilon_pilon	99.5		True
+CONTIG	NODE_9_length_48092_cov_7.281726_pilon_pilon_pilon_pilon	48092	correct
+3719264	3740807	1	21516	NC_020133.1	NODE_10_length_47378_cov_7.505598_pilon_pilon_pilon_pilon	99.52		True
+local misassembly
+3741466	3767327	21517	47378	NC_020133.1	NODE_10_length_47378_cov_7.505598_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_10_length_47378_cov_7.505598_pilon_pilon_pilon_pilon	47378	correct
+5259084	5259436	353	1	NC_020133.1	NODE_11_length_46730_cov_7.761711_pilon_pilon_pilon_pilon	99.72		True
+relocation, inconsistency = -609397
+5822274	5868480	46607	354	NC_020133.1	NODE_11_length_46730_cov_7.761711_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_11_length_46730_cov_7.761711_pilon_pilon_pilon_pilon	46730	misassembled
+307391	353446	124	46190	NC_020133.1	NODE_12_length_46315_cov_7.650818_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_12_length_46315_cov_7.650818_pilon_pilon_pilon_pilon	46315	correct
+5619408	5628392	123	9095	NC_020133.1	NODE_13_length_43510_cov_7.930756_pilon_pilon_pilon_pilon	99.66		True
+relocation, inconsistency = 1076
+5629469	5663744	9096	43302	NC_020133.1	NODE_13_length_43510_cov_7.930756_pilon_pilon_pilon_pilon	98.94		True
+CONTIG	NODE_13_length_43510_cov_7.930756_pilon_pilon_pilon_pilon	43510	misassembled
+2017451	2059492	1	42045	NC_020133.1	NODE_14_length_42168_cov_8.069979_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_14_length_42168_cov_8.069979_pilon_pilon_pilon_pilon	42168	correct
+2245759	2286688	41131	191	NC_020133.1	NODE_15_length_41256_cov_8.143767_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_15_length_41256_cov_8.143767_pilon_pilon_pilon_pilon	41256	correct
+1911674	1934911	23244	4	NC_020133.1	NODE_16_length_40740_cov_8.045035_pilon_pilon_pilon_pilon	99.69		True
+relocation, inconsistency = 3302
+1891002	1908371	40615	23245	NC_020133.1	NODE_16_length_40740_cov_8.045035_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_16_length_40740_cov_8.045035_pilon_pilon_pilon_pilon	40740	misassembled
+4415300	4429191	124	14021	NC_020133.1	NODE_17_length_39964_cov_8.278711_pilon_pilon_pilon_pilon	99.55		True
+relocation, inconsistency = 1376
+4430568	4431200	14022	14654	NC_020133.1	NODE_17_length_39964_cov_8.278711_pilon_pilon_pilon_pilon	99.54		True
+relocation, inconsistency = 1365
+4432567	4453529	14656	35620	NC_020133.1	NODE_17_length_39964_cov_8.278711_pilon_pilon_pilon_pilon	99.7		True
+relocation, inconsistency = -2015265
+2438265	2438990	35621	36346	NC_020133.1	NODE_17_length_39964_cov_8.278711_pilon_pilon_pilon_pilon	99.32		True
+relocation, inconsistency = 1374
+2440365	2443713	36347	39695	NC_020133.1	NODE_17_length_39964_cov_8.278711_pilon_pilon_pilon_pilon	99.55		True
+relocation, inconsistency = -37011
+2406703	2406971	39696	39964	NC_020133.1	NODE_17_length_39964_cov_8.278711_pilon_pilon_pilon_pilon	98.89		True
+CONTIG	NODE_17_length_39964_cov_8.278711_pilon_pilon_pilon_pilon	39964	misassembled
+6064445	6102637	1	38234	NC_020133.1	NODE_18_length_38275_cov_7.432028_pilon_pilon_pilon_pilon	99.53		True
+CONTIG	NODE_18_length_38275_cov_7.432028_pilon_pilon_pilon_pilon	38275	correct
+1371245	1407058	128	35916	NC_020133.1	NODE_19_length_36042_cov_7.439204_pilon_pilon_pilon_pilon	99.3		True
+CONTIG	NODE_19_length_36042_cov_7.439204_pilon_pilon_pilon_pilon	36042	correct
+1465808	1501376	1	35630	NC_020133.1	NODE_20_length_35755_cov_7.664365_pilon_pilon_pilon_pilon	99.34		True
+CONTIG	NODE_20_length_35755_cov_7.664365_pilon_pilon_pilon_pilon	35755	correct
+1508989	1544354	35601	191	NC_020133.1	NODE_21_length_35601_cov_7.734031_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_21_length_35601_cov_7.734031_pilon_pilon_pilon_pilon	35601	correct
+1220598	1255683	35200	127	NC_020133.1	NODE_22_length_35200_cov_8.015282_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_22_length_35200_cov_8.015282_pilon_pilon_pilon_pilon	35200	correct
+4632185	4667271	1	35086	NC_020133.1	NODE_23_length_35086_cov_8.292686_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_23_length_35086_cov_8.292686_pilon_pilon_pilon_pilon	35086	correct
+3220536	3254444	11	33922	NC_020133.1	NODE_24_length_33922_cov_7.650747_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_24_length_33922_cov_7.650747_pilon_pilon_pilon_pilon	33922	correct
+2290753	2324196	33398	7	NC_020133.1	NODE_25_length_33599_cov_6.834369_pilon_pilon_pilon_pilon	99.42		True
+CONTIG	NODE_25_length_33599_cov_6.834369_pilon_pilon_pilon_pilon	33599	correct
+5422170	5447435	125	25408	NC_020133.1	NODE_26_length_32790_cov_7.571166_pilon_pilon_pilon_pilon	99.55		True
+local misassembly
+5447434	5453685	25973	32234	NC_020133.1	NODE_26_length_32790_cov_7.571166_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_26_length_32790_cov_7.571166_pilon_pilon_pilon_pilon	32790	correct
+1657278	1688127	30815	1	NC_020133.1	NODE_27_length_31005_cov_7.792538_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_27_length_31005_cov_7.792538_pilon_pilon_pilon_pilon	31005	correct
+4395913	4409747	13817	1	NC_020133.1	NODE_28_length_30905_cov_7.452239_pilon_pilon_pilon_pilon	99.31		True
+relocation, inconsistency = 1507
+4393886	4394405	14338	13818	NC_020133.1	NODE_28_length_30905_cov_7.452239_pilon_pilon_pilon_pilon	99.44		True
+relocation, inconsistency = 1376
+4376014	4392509	30905	14339	NC_020133.1	NODE_28_length_30905_cov_7.452239_pilon_pilon_pilon_pilon	99.11		True
+CONTIG	NODE_28_length_30905_cov_7.452239_pilon_pilon_pilon_pilon	30905	misassembled
+2525168	2547787	129	22742	NC_020133.1	NODE_29_length_30894_cov_7.497449_pilon_pilon_pilon_pilon	99.64		True
+relocation, inconsistency = 1374
+2549162	2557186	22743	30768	NC_020133.1	NODE_29_length_30894_cov_7.497449_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_29_length_30894_cov_7.497449_pilon_pilon_pilon_pilon	30894	misassembled
+49009	79481	121	30514	NC_020133.1	NODE_30_length_30599_cov_8.116829_pilon_pilon_pilon_pilon	99.04		True
+CONTIG	NODE_30_length_30599_cov_8.116829_pilon_pilon_pilon_pilon	30599	correct
+1259842	1289600	29761	4	NC_020133.1	NODE_31_length_30586_cov_7.676417_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_31_length_30586_cov_7.676417_pilon_pilon_pilon_pilon	30586	correct
+2059676	2060667	124	1115	NC_020133.1	NODE_32_length_30524_cov_7.680725_pilon_pilon_pilon_pilon	99.4		True
+relocation, inconsistency = 1376
+2062044	2091452	1116	30524	NC_020133.1	NODE_32_length_30524_cov_7.680725_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_32_length_30524_cov_7.680725_pilon_pilon_pilon_pilon	30524	misassembled
+1966700	1988599	22100	196	NC_020133.1	NODE_33_length_30254_cov_8.019086_pilon_pilon_pilon_pilon	99.74		True
+relocation, inconsistency = 1211479
+749576	755217	27745	22104	NC_020133.1	NODE_33_length_30254_cov_8.019086_pilon_pilon_pilon_pilon	99.68		True
+local misassembly
+746369	748754	30131	27746	NC_020133.1	NODE_33_length_30254_cov_8.019086_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_33_length_30254_cov_8.019086_pilon_pilon_pilon_pilon	30254	misassembled
+594998	624487	29516	1	NC_020133.1	NODE_34_length_29516_cov_6.883698_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_34_length_29516_cov_6.883698_pilon_pilon_pilon_pilon	29516	correct
+90789	97538	124	6872	NC_020133.1	NODE_35_length_29428_cov_8.271561_pilon_pilon_pilon_pilon	99.44		True
+relocation, inconsistency = 1364
+98903	101954	6873	9924	NC_020133.1	NODE_35_length_29428_cov_8.271561_pilon_pilon_pilon_pilon	99.51		True
+relocation, inconsistency = 1376
+103331	117195	9925	23792	NC_020133.1	NODE_35_length_29428_cov_8.271561_pilon_pilon_pilon_pilon	99.52		True
+relocation, inconsistency = 1455
+118651	124163	23793	29306	NC_020133.1	NODE_35_length_29428_cov_8.271561_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_35_length_29428_cov_8.271561_pilon_pilon_pilon_pilon	29428	misassembled
+1734926	1735766	841	1	NC_020133.1	NODE_36_length_29040_cov_6.987203_pilon_pilon_pilon_pilon	99.41		True
+local misassembly
+1727149	1734621	8333	849	NC_020133.1	NODE_36_length_29040_cov_6.987203_pilon_pilon_pilon_pilon	99.45		True
+relocation, inconsistency = 1373
+1723922	1725775	10189	8334	NC_020133.1	NODE_36_length_29040_cov_6.987203_pilon_pilon_pilon_pilon	99.62		True
+local misassembly
+1705235	1722044	28101	11293	NC_020133.1	NODE_36_length_29040_cov_6.987203_pilon_pilon_pilon_pilon	99.73		True
+local misassembly
+1703720	1704527	28916	28109	NC_020133.1	NODE_36_length_29040_cov_6.987203_pilon_pilon_pilon_pilon	99.5		True
+CONTIG	NODE_36_length_29040_cov_6.987203_pilon_pilon_pilon_pilon	29040	misassembled
+489837	499859	1	10025	NC_020133.1	NODE_37_length_28984_cov_8.090377_pilon_pilon_pilon_pilon	99.52		True
+local misassembly
+500159	519123	10026	28984	NC_020133.1	NODE_37_length_28984_cov_8.090377_pilon_pilon_pilon_pilon	99.59		True
+CONTIG	NODE_37_length_28984_cov_8.090377_pilon_pilon_pilon_pilon	28984	correct
+816068	824438	126	8495	NC_020133.1	NODE_38_length_28956_cov_7.097194_pilon_pilon_pilon_pilon	99.69		True
+relocation, inconsistency = 1799
+826238	846267	8496	28500	NC_020133.1	NODE_38_length_28956_cov_7.097194_pilon_pilon_pilon_pilon	99.17		True
+local misassembly
+846832	847245	28543	28956	NC_020133.1	NODE_38_length_28956_cov_7.097194_pilon_pilon_pilon_pilon	99.76		True
+CONTIG	NODE_38_length_28956_cov_7.097194_pilon_pilon_pilon_pilon	28956	misassembled
+1820029	1848240	28811	474	NC_020133.1	NODE_39_length_28938_cov_7.494186_pilon_pilon_pilon_pilon	99.04		True
+CONTIG	NODE_39_length_28938_cov_7.494186_pilon_pilon_pilon_pilon	28938	correct
+3432357	3461121	28705	22	NC_020133.1	NODE_40_length_28895_cov_8.014808_pilon_pilon_pilon_pilon	99.49		True
+CONTIG	NODE_40_length_28895_cov_8.014808_pilon_pilon_pilon_pilon	28895	correct
+2682755	2702509	124	19702	NC_020133.1	NODE_41_length_28754_cov_7.756803_pilon_pilon_pilon_pilon	98.78		True
+local misassembly
+2703029	2712064	19703	28754	NC_020133.1	NODE_41_length_28754_cov_7.756803_pilon_pilon_pilon_pilon	99.16		True
+CONTIG	NODE_41_length_28754_cov_7.756803_pilon_pilon_pilon_pilon	28754	correct
+2121878	2150063	1	28186	NC_020133.1	NODE_42_length_28236_cov_7.487424_pilon_pilon_pilon_pilon	99.1		True
+CONTIG	NODE_42_length_28236_cov_7.487424_pilon_pilon_pilon_pilon	28236	correct
+208701	212171	3471	1	NC_020133.1	NODE_43_length_28111_cov_7.903052_pilon_pilon_pilon_pilon	99.51		True
+relocation, inconsistency = 4265
+182248	204296	3611	25665	NC_020133.1	NODE_43_length_28111_cov_7.903052_pilon_pilon_pilon_pilon	99.49		True
+local misassembly
+205822	207474	26453	28111	NC_020133.1	NODE_43_length_28111_cov_7.903052_pilon_pilon_pilon_pilon	98.92		True
+CONTIG	NODE_43_length_28111_cov_7.903052_pilon_pilon_pilon_pilon	28111	misassembled
+2348103	2353887	1	5786	NC_020133.1	NODE_44_length_27557_cov_7.694750_pilon_pilon_pilon_pilon	99.62		True
+relocation, inconsistency = 1743
+2355631	2377455	5787	27557	NC_020133.1	NODE_44_length_27557_cov_7.694750_pilon_pilon_pilon_pilon	99.53		True
+CONTIG	NODE_44_length_27557_cov_7.694750_pilon_pilon_pilon_pilon	27557	misassembled
+3028093	3054283	1225	27408	NC_020133.1	NODE_45_length_27537_cov_8.082123_pilon_pilon_pilon_pilon	99.44		True
+CONTIG	NODE_45_length_27537_cov_8.082123_pilon_pilon_pilon_pilon	27537	correct
+5455051	5473278	18189	1	NC_020133.1	NODE_46_length_27067_cov_7.815627_pilon_pilon_pilon_pilon	99.14		True
+relocation, inconsistency = 64472
+5381702	5390577	27067	18191	NC_020133.1	NODE_46_length_27067_cov_7.815627_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_46_length_27067_cov_7.815627_pilon_pilon_pilon_pilon	27067	misassembled
+1148397	1175349	1	26934	NC_020133.1	NODE_47_length_27059_cov_7.551203_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_47_length_27059_cov_7.551203_pilon_pilon_pilon_pilon	27059	correct
+568344	594698	124	26477	NC_020133.1	NODE_48_length_26599_cov_7.891659_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_48_length_26599_cov_7.891659_pilon_pilon_pilon_pilon	26599	correct
+154086	180250	26179	1	NC_020133.1	NODE_49_length_26179_cov_8.565101_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_49_length_26179_cov_8.565101_pilon_pilon_pilon_pilon	26179	correct
+4566009	4591833	26025	203	NC_020133.1	NODE_50_length_26177_cov_7.830019_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_50_length_26177_cov_7.830019_pilon_pilon_pilon_pilon	26177	correct
+4862563	4885501	22939	1	NC_020133.1	NODE_51_length_26151_cov_7.034084_pilon_pilon_pilon_pilon	99.49		True
+relocation, inconsistency = 1375
+4858129	4861187	25957	22940	NC_020133.1	NODE_51_length_26151_cov_7.034084_pilon_pilon_pilon_pilon	97.2		True
+CONTIG	NODE_51_length_26151_cov_7.034084_pilon_pilon_pilon_pilon	26151	misassembled
+5868472	5894492	126	26041	NC_020133.1	NODE_52_length_26041_cov_7.194875_pilon_pilon_pilon_pilon	99.11		True
+CONTIG	NODE_52_length_26041_cov_7.194875_pilon_pilon_pilon_pilon	26041	correct
+5107774	5133322	25568	5	NC_020133.1	NODE_53_length_25568_cov_8.006761_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_53_length_25568_cov_8.006761_pilon_pilon_pilon_pilon	25568	correct
+4763133	4788357	25259	34	NC_020133.1	NODE_54_length_25259_cov_7.919346_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_54_length_25259_cov_7.919346_pilon_pilon_pilon_pilon	25259	correct
+3192862	3217916	1	25056	NC_020133.1	NODE_55_length_25182_cov_7.618080_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_55_length_25182_cov_7.618080_pilon_pilon_pilon_pilon	25182	correct
+4053783	4077512	37	23869	NC_020133.1	NODE_56_length_24647_cov_7.295024_pilon_pilon_pilon_pilon	99.17		True
+local misassembly
+4078468	4078798	24185	24515	NC_020133.1	NODE_56_length_24647_cov_7.295024_pilon_pilon_pilon_pilon	99.09		True
+CONTIG	NODE_56_length_24647_cov_7.295024_pilon_pilon_pilon_pilon	24647	correct
+4607248	4630936	127	23821	NC_020133.1	NODE_57_length_23944_cov_7.796196_pilon_pilon_pilon_pilon	99.76		True
+CONTIG	NODE_57_length_23944_cov_7.796196_pilon_pilon_pilon_pilon	23944	correct
+5349179	5353410	4335	127	NC_020133.1	NODE_58_length_23872_cov_7.748284_pilon_pilon_pilon_pilon	98.91		True
+local misassembly
+5329956	5349188	23872	4636	NC_020133.1	NODE_58_length_23872_cov_7.748284_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_58_length_23872_cov_7.748284_pilon_pilon_pilon_pilon	23872	correct
+4553710	4563800	10215	125	NC_020133.1	NODE_59_length_23588_cov_8.508418_pilon_pilon_pilon_pilon	99.79		True
+relocation, inconsistency = 3401982
+1138352	1143539	18404	23588	NC_020133.1	NODE_59_length_23588_cov_8.508418_pilon_pilon_pilon_pilon	99.5		True
+CONTIG	NODE_59_length_23588_cov_8.508418_pilon_pilon_pilon_pilon	23588	misassembled
+4045712	4053797	8115	1	NC_020133.1	NODE_60_length_23545_cov_7.213767_pilon_pilon_pilon_pilon	99.27		True
+local misassembly
+4033067	4045335	20384	8116	NC_020133.1	NODE_60_length_23545_cov_7.213767_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_60_length_23545_cov_7.213767_pilon_pilon_pilon_pilon	23545	correct
+6198296	6208955	1	10662	NC_020133.1	NODE_61_length_23443_cov_8.224653_pilon_pilon_pilon_pilon	99.45		True
+fake: not a misassembly [linear representation of circular genome]
+1	12657	10663	23317	NC_020133.1	NODE_61_length_23443_cov_8.224653_pilon_pilon_pilon_pilon	99.48		True
+CONTIG	NODE_61_length_23443_cov_8.224653_pilon_pilon_pilon_pilon	23443	correct
+2159351	2179720	20366	1	NC_020133.1	NODE_62_length_23426_cov_6.624404_pilon_pilon_pilon_pilon	99.38		True
+relocation, inconsistency = -3738719
+5894974	5896477	23426	21959	NC_020133.1	NODE_62_length_23426_cov_6.624404_pilon_pilon_pilon_pilon	97.01		True
+CONTIG	NODE_62_length_23426_cov_6.624404_pilon_pilon_pilon_pilon	23426	misassembled
+124153	147218	23171	123	NC_020133.1	NODE_63_length_23367_cov_7.990146_pilon_pilon_pilon_pilon	99.52		True
+CONTIG	NODE_63_length_23367_cov_7.990146_pilon_pilon_pilon_pilon	23367	correct
+959522	982427	1	23015	NC_020133.1	NODE_64_length_23139_cov_7.182470_pilon_pilon_pilon_pilon	99.29		True
+CONTIG	NODE_64_length_23139_cov_7.182470_pilon_pilon_pilon_pilon	23139	correct
+3289454	3312107	22777	125	NC_020133.1	NODE_65_length_22939_cov_7.145055_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_65_length_22939_cov_7.145055_pilon_pilon_pilon_pilon	22939	correct
+267618	274894	192	7476	NC_020133.1	NODE_66_length_22935_cov_7.270782_pilon_pilon_pilon_pilon	99.51		True
+relocation, inconsistency = 1461
+276395	291628	7516	22759	NC_020133.1	NODE_66_length_22935_cov_7.270782_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_66_length_22935_cov_7.270782_pilon_pilon_pilon_pilon	22935	misassembled
+1934915	1957752	25	22863	NC_020133.1	NODE_67_length_22863_cov_7.846323_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_67_length_22863_cov_7.846323_pilon_pilon_pilon_pilon	22863	correct
+5290505	5312935	185	22650	NC_020133.1	NODE_68_length_22650_cov_7.712649_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_68_length_22650_cov_7.712649_pilon_pilon_pilon_pilon	22650	correct
+4078788	4085146	127	6484	NC_020133.1	NODE_69_length_22048_cov_7.775786_pilon_pilon_pilon_pilon	99.29		True
+relocation, inconsistency = 1376
+4086523	4101941	6485	21927	NC_020133.1	NODE_69_length_22048_cov_7.775786_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_69_length_22048_cov_7.775786_pilon_pilon_pilon_pilon	22048	misassembled
+2380428	2402163	1	21731	NC_020133.1	NODE_70_length_21956_cov_7.118558_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_70_length_21956_cov_7.118558_pilon_pilon_pilon_pilon	21956	correct
+4473098	4494701	1	21606	NC_020133.1	NODE_71_length_21647_cov_7.719610_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_71_length_21647_cov_7.719610_pilon_pilon_pilon_pilon	21647	correct
+267363	267628	469	204	NC_020133.1	NODE_72_length_21528_cov_7.863605_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = 1373
+244929	265989	21528	470	NC_020133.1	NODE_72_length_21528_cov_7.863605_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_72_length_21528_cov_7.863605_pilon_pilon_pilon_pilon	21528	misassembled
+3901452	3919284	17834	1	NC_020133.1	NODE_73_length_21473_cov_7.526890_pilon_pilon_pilon_pilon	99.75		True
+relocation, inconsistency = 29267
+3868673	3872184	21348	17835	NC_020133.1	NODE_73_length_21473_cov_7.526890_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_73_length_21473_cov_7.526890_pilon_pilon_pilon_pilon	21473	misassembled
+1595691	1616782	124	21211	NC_020133.1	NODE_74_length_21337_cov_7.847902_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_74_length_21337_cov_7.847902_pilon_pilon_pilon_pilon	21337	correct
+5539366	5560301	21069	125	NC_020133.1	NODE_75_length_21194_cov_8.256562_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_75_length_21194_cov_8.256562_pilon_pilon_pilon_pilon	21194	correct
+6036583	6038147	126	1692	NC_020133.1	NODE_76_length_21171_cov_7.411994_pilon_pilon_pilon_pilon	99.49		True
+relocation, inconsistency = 1376
+6039524	6058987	1693	21149	NC_020133.1	NODE_76_length_21171_cov_7.411994_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_76_length_21171_cov_7.411994_pilon_pilon_pilon_pilon	21171	misassembled
+353436	374197	20879	123	NC_020133.1	NODE_77_length_21002_cov_6.832048_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_77_length_21002_cov_6.832048_pilon_pilon_pilon_pilon	21002	correct
+3672739	3682019	1	9273	NC_020133.1	NODE_78_length_20747_cov_7.451067_pilon_pilon_pilon_pilon	99.69		True
+relocation, inconsistency = 899597
+2761792	2773128	20624	9287	NC_020133.1	NODE_78_length_20747_cov_7.451067_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_78_length_20747_cov_7.451067_pilon_pilon_pilon_pilon	20747	misassembled
+2915800	2935546	951	20623	NC_020133.1	NODE_79_length_20623_cov_7.412763_pilon_pilon_pilon_pilon	98.57		True
+CONTIG	NODE_79_length_20623_cov_7.412763_pilon_pilon_pilon_pilon	20623	correct
+5044389	5064280	10	19900	NC_020133.1	NODE_80_length_20543_cov_8.213803_pilon_pilon_pilon_pilon	99.64		True
+relocation, inconsistency = 2312
+5066604	5067109	19912	20417	NC_020133.1	NODE_80_length_20543_cov_8.213803_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_80_length_20543_cov_8.213803_pilon_pilon_pilon_pilon	20543	misassembled
+5400850	5419084	18361	124	NC_020133.1	NODE_81_length_20259_cov_7.796692_pilon_pilon_pilon_pilon	99.53		True
+relocation, inconsistency = 7199
+5391762	5393650	20259	18362	NC_020133.1	NODE_81_length_20259_cov_7.796692_pilon_pilon_pilon_pilon	98.95		True
+CONTIG	NODE_81_length_20259_cov_7.796692_pilon_pilon_pilon_pilon	20259	misassembled
+3610382	3628784	1479	19882	NC_020133.1	NODE_82_length_20007_cov_8.050956_pilon_pilon_pilon_pilon	99.72		True
+CONTIG	NODE_82_length_20007_cov_8.050956_pilon_pilon_pilon_pilon	20007	correct
+4085886	4086210	1	325	NC_020133.1	NODE_83_length_19800_cov_9.099375_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = -387472
+3698739	3718100	326	19689	NC_020133.1	NODE_83_length_19800_cov_9.099375_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_83_length_19800_cov_9.099375_pilon_pilon_pilon_pilon	19800	misassembled
+2102171	2121818	19650	1	NC_020133.1	NODE_84_length_19775_cov_6.490482_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_84_length_19775_cov_6.490482_pilon_pilon_pilon_pilon	19775	correct
+4694190	4713869	1	19684	NC_020133.1	NODE_85_length_19684_cov_7.121849_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_85_length_19684_cov_7.121849_pilon_pilon_pilon_pilon	19684	correct
+457308	476821	19517	1	NC_020133.1	NODE_86_length_19517_cov_8.009489_pilon_pilon_pilon_pilon	99.72		True
+CONTIG	NODE_86_length_19517_cov_8.009489_pilon_pilon_pilon_pilon	19517	correct
+2963598	2971936	8462	124	NC_020133.1	NODE_87_length_19498_cov_6.884776_pilon_pilon_pilon_pilon	99.74		True
+relocation, inconsistency = 2555
+2950292	2961042	19212	8463	NC_020133.1	NODE_87_length_19498_cov_6.884776_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_87_length_19498_cov_6.884776_pilon_pilon_pilon_pilon	19498	misassembled
+3656538	3656798	261	1	NC_020133.1	NODE_88_length_19112_cov_8.107348_pilon_pilon_pilon_pilon	99.24		True
+local misassembly
+3636985	3655810	19112	262	NC_020133.1	NODE_88_length_19112_cov_8.107348_pilon_pilon_pilon_pilon	99.57		True
+CONTIG	NODE_88_length_19112_cov_8.107348_pilon_pilon_pilon_pilon	19112	correct
+2585322	2604216	1	18907	NC_020133.1	NODE_89_length_18989_cov_7.363217_pilon_pilon_pilon_pilon	99.49		True
+CONTIG	NODE_89_length_18989_cov_7.363217_pilon_pilon_pilon_pilon	18989	correct
+1758512	1777068	85	18661	NC_020133.1	NODE_90_length_18787_cov_7.514255_pilon_pilon_pilon_pilon	99.59		True
+CONTIG	NODE_90_length_18787_cov_7.514255_pilon_pilon_pilon_pilon	18787	correct
+4341708	4360163	72	18522	NC_020133.1	NODE_91_length_18646_cov_7.205735_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_91_length_18646_cov_7.205735_pilon_pilon_pilon_pilon	18646	correct
+5581391	5599540	18082	1	NC_020133.1	NODE_92_length_18325_cov_7.864601_pilon_pilon_pilon_pilon	98.96		True
+CONTIG	NODE_92_length_18325_cov_7.864601_pilon_pilon_pilon_pilon	18325	correct
+890657	909012	224	18041	NC_020133.1	NODE_93_length_18041_cov_7.365245_pilon_pilon_pilon_pilon	96.07		True
+CONTIG	NODE_93_length_18041_cov_7.365245_pilon_pilon_pilon_pilon	18041	correct
+1861621	1861911	1	291	NC_020133.1	NODE_94_length_17983_cov_8.488911_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = 1374
+1863286	1878844	292	15862	NC_020133.1	NODE_94_length_17983_cov_8.488911_pilon_pilon_pilon_pilon	99.47		True
+relocation, inconsistency = 2788997
+4667843	4669828	17861	15864	NC_020133.1	NODE_94_length_17983_cov_8.488911_pilon_pilon_pilon_pilon	99.3		True
+CONTIG	NODE_94_length_17983_cov_8.488911_pilon_pilon_pilon_pilon	17983	misassembled
+1544345	1561906	125	17696	NC_020133.1	NODE_95_length_17821_cov_7.348593_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_95_length_17821_cov_7.348593_pilon_pilon_pilon_pilon	17821	correct
+4826214	4835227	1	9017	NC_020133.1	NODE_96_length_17706_cov_7.833950_pilon_pilon_pilon_pilon	99.55		True
+relocation, inconsistency = 1376
+4836604	4845314	9018	17706	NC_020133.1	NODE_96_length_17706_cov_7.833950_pilon_pilon_pilon_pilon	99.5		True
+CONTIG	NODE_96_length_17706_cov_7.833950_pilon_pilon_pilon_pilon	17706	misassembled
+CONTIG	NODE_97_length_17635_cov_13.799235_pilon_pilon_pilon_pilon	17635	unaligned
+2864831	2881812	719	17604	NC_020133.1	NODE_98_length_17604_cov_7.267895_pilon_pilon_pilon_pilon	99.09		True
+CONTIG	NODE_98_length_17604_cov_7.267895_pilon_pilon_pilon_pilon	17604	correct
+4898980	4899766	229	1015	NC_020133.1	NODE_99_length_17581_cov_7.446660_pilon_pilon_pilon_pilon	99.62		True
+relocation, inconsistency = 1376
+4901143	4917670	1016	17581	NC_020133.1	NODE_99_length_17581_cov_7.446660_pilon_pilon_pilon_pilon	99.29		True
+CONTIG	NODE_99_length_17581_cov_7.446660_pilon_pilon_pilon_pilon	17581	misassembled
+4502830	4520057	17472	242	NC_020133.1	NODE_100_length_17476_cov_7.750303_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_100_length_17476_cov_7.750303_pilon_pilon_pilon_pilon	17476	correct
+3392723	3409943	17345	124	NC_020133.1	NODE_101_length_17470_cov_7.425474_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_101_length_17470_cov_7.425474_pilon_pilon_pilon_pilon	17470	correct
+1429230	1446489	17384	125	NC_020133.1	NODE_102_length_17410_cov_7.537465_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_102_length_17410_cov_7.537465_pilon_pilon_pilon_pilon	17410	correct
+4805305	4822704	17313	111	NC_020133.1	NODE_103_length_17313_cov_8.092517_pilon_pilon_pilon_pilon	98.51		True
+CONTIG	NODE_103_length_17313_cov_8.092517_pilon_pilon_pilon_pilon	17313	correct
+213743	225972	17244	5013	NC_020133.1	NODE_104_length_17244_cov_7.701466_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_104_length_17244_cov_7.701466_pilon_pilon_pilon_pilon	17244	correct
+3144541	3161460	17027	127	NC_020133.1	NODE_105_length_17027_cov_7.181420_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_105_length_17027_cov_7.181420_pilon_pilon_pilon_pilon	17027	correct
+3825590	3842502	16902	1	NC_020133.1	NODE_106_length_16943_cov_6.762191_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_106_length_16943_cov_6.762191_pilon_pilon_pilon_pilon	16943	correct
+3003046	3015253	1	12208	NC_020133.1	NODE_107_length_16938_cov_8.022069_pilon_pilon_pilon_pilon	99.66		True
+relocation, inconsistency = 1375
+3016629	3021281	12209	16813	NC_020133.1	NODE_107_length_16938_cov_8.022069_pilon_pilon_pilon_pilon	97.65		True
+CONTIG	NODE_107_length_16938_cov_8.022069_pilon_pilon_pilon_pilon	16938	misassembled
+719893	736448	123	16710	NC_020133.1	NODE_108_length_16832_cov_7.605986_pilon_pilon_pilon_pilon	99.4		True
+CONTIG	NODE_108_length_16832_cov_7.605986_pilon_pilon_pilon_pilon	16832	correct
+1880210	1883832	3647	24	NC_020133.1	NODE_109_length_16349_cov_8.229133_pilon_pilon_pilon_pilon	99.42		True
+relocation, inconsistency = 3378679
+5262518	5275090	3654	16227	NC_020133.1	NODE_109_length_16349_cov_8.229133_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_109_length_16349_cov_8.229133_pilon_pilon_pilon_pilon	16349	misassembled
+6152928	6155638	2710	1	NC_020133.1	NODE_110_length_16305_cov_7.344171_pilon_pilon_pilon_pilon	99.78		True
+relocation, inconsistency = 1376
+6137960	6151551	16305	2711	NC_020133.1	NODE_110_length_16305_cov_7.344171_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_110_length_16305_cov_7.344171_pilon_pilon_pilon_pilon	16305	misassembled
+5600554	5616593	16164	122	NC_020133.1	NODE_111_length_16287_cov_7.432859_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_111_length_16287_cov_7.432859_pilon_pilon_pilon_pilon	16287	correct
+4007337	4021820	14459	1	NC_020133.1	NODE_112_length_16266_cov_7.103786_pilon_pilon_pilon_pilon	99.19		True
+local misassembly
+4006525	4007336	16186	15375	NC_020133.1	NODE_112_length_16266_cov_7.103786_pilon_pilon_pilon_pilon	99.14		True
+CONTIG	NODE_112_length_16266_cov_7.103786_pilon_pilon_pilon_pilon	16266	correct
+4670187	4686206	16075	60	NC_020133.1	NODE_113_length_16200_cov_8.301624_pilon_pilon_pilon_pilon	99.57		True
+CONTIG	NODE_113_length_16200_cov_8.301624_pilon_pilon_pilon_pilon	16200	correct
+2605501	2621416	154	16063	NC_020133.1	NODE_114_length_16185_cov_7.335721_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_114_length_16185_cov_7.335721_pilon_pilon_pilon_pilon	16185	correct
+3688623	3694197	174	5749	NC_020133.1	NODE_115_length_16173_cov_7.721551_pilon_pilon_pilon_pilon	99.61		True
+relocation, inconsistency = 1414
+3682023	3687207	10935	5751	NC_020133.1	NODE_115_length_16173_cov_7.721551_pilon_pilon_pilon_pilon	99.61		True
+relocation, inconsistency = 928707
+2748109	2753314	10937	16142	NC_020133.1	NODE_115_length_16173_cov_7.721551_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_115_length_16173_cov_7.721551_pilon_pilon_pilon_pilon	16173	misassembled
+683480	699452	1	15869	NC_020133.1	NODE_116_length_15994_cov_6.765551_pilon_pilon_pilon_pilon	98.81		True
+CONTIG	NODE_116_length_15994_cov_6.765551_pilon_pilon_pilon_pilon	15994	correct
+1289642	1305132	15618	126	NC_020133.1	NODE_117_length_15618_cov_7.549868_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_117_length_15618_cov_7.549868_pilon_pilon_pilon_pilon	15618	correct
+3176770	3192162	127	15519	NC_020133.1	NODE_118_length_15519_cov_6.799376_pilon_pilon_pilon_pilon	99.84		True
+CONTIG	NODE_118_length_15519_cov_6.799376_pilon_pilon_pilon_pilon	15519	correct
+4172275	4187635	15363	1	NC_020133.1	NODE_119_length_15484_cov_7.541056_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_119_length_15484_cov_7.541056_pilon_pilon_pilon_pilon	15484	correct
+5988586	5999488	11025	124	NC_020133.1	NODE_120_length_15126_cov_7.001400_pilon_pilon_pilon_pilon	99.72		True
+relocation, inconsistency = 3552
+5982026	5985033	14027	11026	NC_020133.1	NODE_120_length_15126_cov_7.001400_pilon_pilon_pilon_pilon	98.41		True
+local misassembly
+5980668	5981740	15110	14028	NC_020133.1	NODE_120_length_15126_cov_7.001400_pilon_pilon_pilon_pilon	96.36		True
+CONTIG	NODE_120_length_15126_cov_7.001400_pilon_pilon_pilon_pilon	15126	misassembled
+2831508	2846509	14989	1	NC_020133.1	NODE_121_length_15115_cov_8.587603_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_121_length_15115_cov_8.587603_pilon_pilon_pilon_pilon	15115	correct
+2466460	2481455	34	14936	NC_020133.1	NODE_122_length_14983_cov_6.745355_pilon_pilon_pilon_pilon	98.95		True
+CONTIG	NODE_122_length_14983_cov_6.745355_pilon_pilon_pilon_pilon	14983	correct
+3082079	3088818	1	6741	NC_020133.1	NODE_123_length_14908_cov_7.654151_pilon_pilon_pilon_pilon	99.61		True
+relocation, inconsistency = 4396
+3093215	3101326	6742	14908	NC_020133.1	NODE_123_length_14908_cov_7.654151_pilon_pilon_pilon_pilon	98.95		True
+CONTIG	NODE_123_length_14908_cov_7.654151_pilon_pilon_pilon_pilon	14908	misassembled
+3378071	3392636	126	14695	NC_020133.1	NODE_124_length_14817_cov_6.643091_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_124_length_14817_cov_6.643091_pilon_pilon_pilon_pilon	14817	correct
+5355207	5369439	14233	1	NC_020133.1	NODE_125_length_14788_cov_7.936294_pilon_pilon_pilon_pilon	99.55		True
+relocation, inconsistency = 1375
+5353398	5353831	14667	14234	NC_020133.1	NODE_125_length_14788_cov_7.936294_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_125_length_14788_cov_7.936294_pilon_pilon_pilon_pilon	14788	misassembled
+1561897	1576488	132	14711	NC_020133.1	NODE_126_length_14711_cov_8.108201_pilon_pilon_pilon_pilon	99.52		True
+CONTIG	NODE_126_length_14711_cov_8.108201_pilon_pilon_pilon_pilon	14711	correct
+4326690	4341163	1	14472	NC_020133.1	NODE_127_length_14703_cov_7.026756_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_127_length_14703_cov_7.026756_pilon_pilon_pilon_pilon	14703	correct
+19107	33697	14632	127	NC_020133.1	NODE_128_length_14698_cov_8.105758_pilon_pilon_pilon_pilon	99.03		True
+CONTIG	NODE_128_length_14698_cov_8.105758_pilon_pilon_pilon_pilon	14698	correct
+1205083	1219482	259	14640	NC_020133.1	NODE_129_length_14640_cov_7.825674_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_129_length_14640_cov_7.825674_pilon_pilon_pilon_pilon	14640	correct
+1190331	1191064	858	125	NC_020133.1	NODE_130_length_14599_cov_8.204049_pilon_pilon_pilon_pilon	99.87		True
+relocation, inconsistency = 1374
+1175339	1188956	14475	859	NC_020133.1	NODE_130_length_14599_cov_8.204049_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_130_length_14599_cov_8.204049_pilon_pilon_pilon_pilon	14599	misassembled
+5664085	5678344	7	14269	NC_020133.1	NODE_131_length_14269_cov_7.946613_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_131_length_14269_cov_7.946613_pilon_pilon_pilon_pilon	14269	correct
+2637823	2651941	1	14119	NC_020133.1	NODE_132_length_14205_cov_7.443742_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_132_length_14205_cov_7.443742_pilon_pilon_pilon_pilon	14205	correct
+2448600	2462628	14053	1	NC_020133.1	NODE_133_length_14179_cov_7.854256_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_133_length_14179_cov_7.854256_pilon_pilon_pilon_pilon	14179	correct
+4165091	4172169	7083	1	NC_020133.1	NODE_134_length_14094_cov_6.810052_pilon_pilon_pilon_pilon	99.35		True
+relocation, inconsistency = 17488
+4147294	4147589	7087	7382	NC_020133.1	NODE_134_length_14094_cov_6.810052_pilon_pilon_pilon_pilon	99.35		True
+relocation, inconsistency = 1376
+4148966	4155539	7383	13961	NC_020133.1	NODE_134_length_14094_cov_6.810052_pilon_pilon_pilon_pilon	99.44		True
+CONTIG	NODE_134_length_14094_cov_6.810052_pilon_pilon_pilon_pilon	14094	misassembled
+3341942	3355833	13905	15	NC_020133.1	NODE_135_length_14028_cov_6.816704_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_135_length_14028_cov_6.816704_pilon_pilon_pilon_pilon	14028	correct
+4025613	4033047	125	7570	NC_020133.1	NODE_136_length_13929_cov_7.656137_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_136_length_13929_cov_7.656137_pilon_pilon_pilon_pilon	13929	correct
+759795	773645	1	13796	NC_020133.1	NODE_137_length_13918_cov_8.269306_pilon_pilon_pilon_pilon	99.18		True
+CONTIG	NODE_137_length_13918_cov_8.269306_pilon_pilon_pilon_pilon	13918	correct
+3774772	3788528	112	13859	NC_020133.1	NODE_138_length_13859_cov_8.024833_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_138_length_13859_cov_8.024833_pilon_pilon_pilon_pilon	13859	correct
+912494	925915	13548	186	NC_020133.1	NODE_139_length_13548_cov_7.399970_pilon_pilon_pilon_pilon	99.14		True
+CONTIG	NODE_139_length_13548_cov_7.399970_pilon_pilon_pilon_pilon	13548	correct
+5799555	5799962	126	533	NC_020133.1	NODE_140_length_13502_cov_7.075589_pilon_pilon_pilon_pilon	99.52		True
+relocation, inconsistency = 1374
+5801337	5814299	534	13502	NC_020133.1	NODE_140_length_13502_cov_7.075589_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_140_length_13502_cov_7.075589_pilon_pilon_pilon_pilon	13502	misassembled
+1756507	1757222	844	129	NC_020133.1	NODE_141_length_13401_cov_7.243559_pilon_pilon_pilon_pilon	99.3		True
+local misassembly
+1744060	1755141	13399	2319	NC_020133.1	NODE_141_length_13401_cov_7.243559_pilon_pilon_pilon_pilon	99.72		True
+CONTIG	NODE_141_length_13401_cov_7.243559_pilon_pilon_pilon_pilon	13401	correct
+4196592	4208817	124	12358	NC_020133.1	NODE_142_length_13389_cov_8.377394_pilon_pilon_pilon_pilon	99.32		True
+relocation, inconsistency = 12369
+4221188	4222091	13263	12360	NC_020133.1	NODE_142_length_13389_cov_8.377394_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_142_length_13389_cov_8.377394_pilon_pilon_pilon_pilon	13389	misassembled
+4223579	4235874	956	13235	NC_020133.1	NODE_143_length_13361_cov_7.473553_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_143_length_13361_cov_7.473553_pilon_pilon_pilon_pilon	13361	correct
+5898534	5911448	13305	391	NC_020133.1	NODE_144_length_13358_cov_7.579548_pilon_pilon_pilon_pilon	99.38		True
+CONTIG	NODE_144_length_13358_cov_7.579548_pilon_pilon_pilon_pilon	13358	correct
+2507628	2520794	1	13176	NC_020133.1	NODE_145_length_13356_cov_7.425731_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_145_length_13356_cov_7.425731_pilon_pilon_pilon_pilon	13356	correct
+3112330	3115503	3174	1	NC_020133.1	NODE_146_length_13273_cov_6.639358_pilon_pilon_pilon_pilon	99.81		True
+local misassembly
+3101312	3111408	13273	3175	NC_020133.1	NODE_146_length_13273_cov_6.639358_pilon_pilon_pilon_pilon	99.37		True
+CONTIG	NODE_146_length_13273_cov_6.639358_pilon_pilon_pilon_pilon	13273	correct
+5224522	5237458	13058	124	NC_020133.1	NODE_147_length_13235_cov_6.858178_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_147_length_13235_cov_6.858178_pilon_pilon_pilon_pilon	13235	correct
+6183577	6196647	13108	1	NC_020133.1	NODE_148_length_13108_cov_7.445035_pilon_pilon_pilon_pilon	99.28		True
+CONTIG	NODE_148_length_13108_cov_7.445035_pilon_pilon_pilon_pilon	13108	correct
+2218906	2231868	136	13042	NC_020133.1	NODE_149_length_13042_cov_7.006272_pilon_pilon_pilon_pilon	99.17		True
+CONTIG	NODE_149_length_13042_cov_7.006272_pilon_pilon_pilon_pilon	13042	correct
+3163887	3176779	13019	127	NC_020133.1	NODE_150_length_13019_cov_6.862628_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_150_length_13019_cov_6.862628_pilon_pilon_pilon_pilon	13019	correct
+855909	868357	12655	202	NC_020133.1	NODE_151_length_12781_cov_7.363758_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_151_length_12781_cov_7.363758_pilon_pilon_pilon_pilon	12781	correct
+5093847	5106551	12699	55	NC_020133.1	NODE_152_length_12699_cov_6.514715_pilon_pilon_pilon_pilon	99.08		True
+CONTIG	NODE_152_length_12699_cov_6.514715_pilon_pilon_pilon_pilon	12699	correct
+4989990	5002523	118	12648	NC_020133.1	NODE_153_length_12692_cov_7.409073_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_153_length_12692_cov_7.409073_pilon_pilon_pilon_pilon	12692	correct
+713746	714411	788	123	NC_020133.1	NODE_154_length_12566_cov_6.702709_pilon_pilon_pilon_pilon	99.26		True
+relocation, inconsistency = 1375
+704287	712370	8842	789	NC_020133.1	NODE_154_length_12566_cov_6.702709_pilon_pilon_pilon_pilon	98.55		True
+local misassembly
+701067	704296	12441	9157	NC_020133.1	NODE_154_length_12566_cov_6.702709_pilon_pilon_pilon_pilon	97.72		True
+CONTIG	NODE_154_length_12566_cov_6.702709_pilon_pilon_pilon_pilon	12566	misassembled
+4943422	4955741	125	12444	NC_020133.1	NODE_155_length_12565_cov_8.066570_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_155_length_12565_cov_8.066570_pilon_pilon_pilon_pilon	12565	correct
+1191055	1203390	12344	1	NC_020133.1	NODE_156_length_12552_cov_6.312274_pilon_pilon_pilon_pilon	99.59		True
+CONTIG	NODE_156_length_12552_cov_6.312274_pilon_pilon_pilon_pilon	12552	correct
+773636	785921	12427	127	NC_020133.1	NODE_157_length_12549_cov_7.526646_pilon_pilon_pilon_pilon	99.52		True
+CONTIG	NODE_157_length_12549_cov_7.526646_pilon_pilon_pilon_pilon	12549	correct
+2668008	2680379	12379	1	NC_020133.1	NODE_158_length_12379_cov_7.137855_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_158_length_12379_cov_7.137855_pilon_pilon_pilon_pilon	12379	correct
+4745153	4757377	12238	1	NC_020133.1	NODE_159_length_12362_cov_7.616020_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_159_length_12362_cov_7.616020_pilon_pilon_pilon_pilon	12362	correct
+4714759	4727076	1	12317	NC_020133.1	NODE_160_length_12317_cov_6.773503_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_160_length_12317_cov_6.773503_pilon_pilon_pilon_pilon	12317	correct
+476827	488932	1	12108	NC_020133.1	NODE_161_length_12108_cov_7.607963_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_161_length_12108_cov_7.607963_pilon_pilon_pilon_pilon	12108	correct
+2231878	2242868	1	10957	NC_020133.1	NODE_162_length_12102_cov_6.473069_pilon_pilon_pilon_pilon	99.48		True
+CONTIG	NODE_162_length_12102_cov_6.473069_pilon_pilon_pilon_pilon	12102	correct
+232997	244769	136	11908	NC_020133.1	NODE_163_length_12079_cov_8.109019_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_163_length_12079_cov_8.109019_pilon_pilon_pilon_pilon	12079	correct
+1417042	1429035	1	11993	NC_020133.1	NODE_164_length_12024_cov_6.621081_pilon_pilon_pilon_pilon	99.4		True
+CONTIG	NODE_164_length_12024_cov_6.621081_pilon_pilon_pilon_pilon	12024	correct
+2654525	2666280	1	11756	NC_020133.1	NODE_165_length_11946_cov_13.498266_pilon_pilon_pilon_pilon	99.74		True
+CONTIG	NODE_165_length_11946_cov_13.498266_pilon_pilon_pilon_pilon	11946	correct
+4984521	4985586	1068	1	NC_020133.1	NODE_166_length_11935_cov_7.678946_pilon_pilon_pilon_pilon	99.54		True
+relocation, inconsistency = 1376
+4972423	4983144	11811	1069	NC_020133.1	NODE_166_length_11935_cov_7.678946_pilon_pilon_pilon_pilon	99.45		True
+CONTIG	NODE_166_length_11935_cov_7.678946_pilon_pilon_pilon_pilon	11935	misassembled
+1802429	1814055	127	11795	NC_020133.1	NODE_167_length_11920_cov_7.650047_pilon_pilon_pilon_pilon	99.35		True
+CONTIG	NODE_167_length_11920_cov_7.650047_pilon_pilon_pilon_pilon	11920	correct
+787911	799930	1	11911	NC_020133.1	NODE_168_length_11911_cov_8.549304_pilon_pilon_pilon_pilon	98.87		True
+CONTIG	NODE_168_length_11911_cov_8.549304_pilon_pilon_pilon_pilon	11911	correct
+5560291	5571963	11762	123	NC_020133.1	NODE_169_length_11889_cov_7.853001_pilon_pilon_pilon_pilon	99.17		True
+CONTIG	NODE_169_length_11889_cov_7.853001_pilon_pilon_pilon_pilon	11889	correct
+2994383	2996317	1935	1	NC_020133.1	NODE_170_length_11809_cov_6.334703_pilon_pilon_pilon_pilon	99.79		True
+relocation, inconsistency = 1376
+2985775	2993005	9167	1937	NC_020133.1	NODE_170_length_11809_cov_6.334703_pilon_pilon_pilon_pilon	99.64		True
+relocation, inconsistency = 1359
+2981774	2984414	11809	9169	NC_020133.1	NODE_170_length_11809_cov_6.334703_pilon_pilon_pilon_pilon	99.81		True
+CONTIG	NODE_170_length_11809_cov_6.334703_pilon_pilon_pilon_pilon	11809	misassembled
+3979488	3991152	1	11662	NC_020133.1	NODE_171_length_11789_cov_7.311525_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_171_length_11789_cov_7.311525_pilon_pilon_pilon_pilon	11789	correct
+1634551	1646014	11586	123	NC_020133.1	NODE_172_length_11711_cov_7.659444_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_172_length_11711_cov_7.659444_pilon_pilon_pilon_pilon	11711	correct
+1359944	1371254	11417	125	NC_020133.1	NODE_173_length_11542_cov_6.797898_pilon_pilon_pilon_pilon	99.49		True
+CONTIG	NODE_173_length_11542_cov_6.797898_pilon_pilon_pilon_pilon	11542	correct
+5003461	5014917	11455	1	NC_020133.1	NODE_174_length_11455_cov_7.652366_pilon_pilon_pilon_pilon	99.74		True
+CONTIG	NODE_174_length_11455_cov_7.652366_pilon_pilon_pilon_pilon	11455	correct
+4788529	4791825	4	3300	NC_020133.1	NODE_175_length_11447_cov_6.743993_pilon_pilon_pilon_pilon	99.76		True
+relocation, inconsistency = -4238782
+553044	561055	3301	11310	NC_020133.1	NODE_175_length_11447_cov_6.743993_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_175_length_11447_cov_6.743993_pilon_pilon_pilon_pilon	11447	misassembled
+296065	307401	1	11288	NC_020133.1	NODE_176_length_11415_cov_6.802179_pilon_pilon_pilon_pilon	99.08		True
+CONTIG	NODE_176_length_11415_cov_6.802179_pilon_pilon_pilon_pilon	11415	correct
+930514	941789	11275	1	NC_020133.1	NODE_177_length_11402_cov_7.884169_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_177_length_11402_cov_7.884169_pilon_pilon_pilon_pilon	11402	correct
+2818722	2827458	127	8865	NC_020133.1	NODE_178_length_11365_cov_7.749155_pilon_pilon_pilon_pilon	99.41		True
+relocation, inconsistency = 1683
+2829142	2831518	8866	11243	NC_020133.1	NODE_178_length_11365_cov_7.749155_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_178_length_11365_cov_7.749155_pilon_pilon_pilon_pilon	11365	misassembled
+5369446	5380667	11222	1	NC_020133.1	NODE_179_length_11222_cov_8.372961_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_179_length_11222_cov_8.372961_pilon_pilon_pilon_pilon	11222	correct
+3421241	3432366	127	11048	NC_020133.1	NODE_180_length_11181_cov_7.343676_pilon_pilon_pilon_pilon	97.8		True
+CONTIG	NODE_180_length_11181_cov_7.343676_pilon_pilon_pilon_pilon	11181	correct
+4210060	4221074	11154	126	NC_020133.1	NODE_181_length_11154_cov_7.449986_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_181_length_11154_cov_7.449986_pilon_pilon_pilon_pilon	11154	correct
+5015002	5026287	1	11129	NC_020133.1	NODE_182_length_11129_cov_7.441829_pilon_pilon_pilon_pilon	98.39		True
+CONTIG	NODE_182_length_11129_cov_7.441829_pilon_pilon_pilon_pilon	11129	correct
+3590725	3591913	126	1314	NC_020133.1	NODE_183_length_11117_cov_8.144586_pilon_pilon_pilon_pilon	99.83		True
+relocation, inconsistency = 1833
+3593793	3596392	3960	1361	NC_020133.1	NODE_183_length_11117_cov_8.144586_pilon_pilon_pilon_pilon	99.62		True
+relocation, inconsistency = -932461
+4525687	4526253	4527	3961	NC_020133.1	NODE_183_length_11117_cov_8.144586_pilon_pilon_pilon_pilon	99.82		True
+relocation, inconsistency = 931894
+3592100	3593792	6220	4528	NC_020133.1	NODE_183_length_11117_cov_8.144586_pilon_pilon_pilon_pilon	99.59		True
+relocation, inconsistency = 932503
+4526296	4531033	6221	10955	NC_020133.1	NODE_183_length_11117_cov_8.144586_pilon_pilon_pilon_pilon	99.43		True
+CONTIG	NODE_183_length_11117_cov_8.144586_pilon_pilon_pilon_pilon	11117	misassembled
+1646004	1656921	10983	126	NC_020133.1	NODE_184_length_11105_cov_7.793769_pilon_pilon_pilon_pilon	99.15		True
+CONTIG	NODE_184_length_11105_cov_7.793769_pilon_pilon_pilon_pilon	11105	correct
+5946226	5957154	1	10921	NC_020133.1	NODE_185_length_10928_cov_8.020461_pilon_pilon_pilon_pilon	99.21		True
+CONTIG	NODE_185_length_10928_cov_8.020461_pilon_pilon_pilon_pilon	10928	correct
+6117707	6128349	167	10804	NC_020133.1	NODE_186_length_10927_cov_8.302037_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_186_length_10927_cov_8.302037_pilon_pilon_pilon_pilon	10927	correct
+5319445	5329938	10493	1	NC_020133.1	NODE_187_length_10685_cov_8.179485_pilon_pilon_pilon_pilon	99.72		True
+CONTIG	NODE_187_length_10685_cov_8.179485_pilon_pilon_pilon_pilon	10685	correct
+2801310	2803370	242	2302	NC_020133.1	NODE_188_length_10660_cov_8.148676_pilon_pilon_pilon_pilon	99.71		True
+relocation, inconsistency = 2342
+2805713	2813960	2303	10550	NC_020133.1	NODE_188_length_10660_cov_8.148676_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_188_length_10660_cov_8.148676_pilon_pilon_pilon_pilon	10660	misassembled
+2336632	2346986	10369	1	NC_020133.1	NODE_189_length_10510_cov_7.878840_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_189_length_10510_cov_7.878840_pilon_pilon_pilon_pilon	10510	correct
+1624242	1634560	1	10316	NC_020133.1	NODE_190_length_10442_cov_14.598449_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_190_length_10442_cov_14.598449_pilon_pilon_pilon_pilon	10442	correct
+542643	552888	10231	1	NC_020133.1	NODE_191_length_10231_cov_7.950020_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_191_length_10231_cov_7.950020_pilon_pilon_pilon_pilon	10231	correct
+5786295	5795630	1	9338	NC_020133.1	NODE_192_length_10171_cov_8.159498_pilon_pilon_pilon_pilon	99.69		True
+local misassembly
+5795838	5796529	9339	10030	NC_020133.1	NODE_192_length_10171_cov_8.159498_pilon_pilon_pilon_pilon	99.86		True
+CONTIG	NODE_192_length_10171_cov_8.159498_pilon_pilon_pilon_pilon	10171	correct
+664960	674943	9986	1	NC_020133.1	NODE_193_length_10120_cov_6.509056_pilon_pilon_pilon_pilon	98.81		True
+CONTIG	NODE_193_length_10120_cov_6.509056_pilon_pilon_pilon_pilon	10120	correct
+3844318	3854362	10040	1	NC_020133.1	NODE_194_length_10120_cov_5.641649_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_194_length_10120_cov_5.641649_pilon_pilon_pilon_pilon	10120	correct
+2971927	2981811	9888	1	NC_020133.1	NODE_195_length_10014_cov_7.045110_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_195_length_10014_cov_7.045110_pilon_pilon_pilon_pilon	10014	correct
+3920341	3930300	9963	13	NC_020133.1	NODE_196_length_9963_cov_7.228548_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_196_length_9963_cov_7.228548_pilon_pilon_pilon_pilon	9963	correct
+2498979	2505916	7067	127	NC_020133.1	NODE_197_length_9732_cov_7.085893_pilon_pilon_pilon_pilon	99.61		True
+local misassembly
+2496073	2498574	9568	7068	NC_020133.1	NODE_197_length_9732_cov_7.085893_pilon_pilon_pilon_pilon	99.48		True
+CONTIG	NODE_197_length_9732_cov_7.085893_pilon_pilon_pilon_pilon	9732	correct
+2324252	2333836	9713	129	NC_020133.1	NODE_198_length_9713_cov_6.831734_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_198_length_9713_cov_6.831734_pilon_pilon_pilon_pilon	9713	correct
+227339	233006	3774	9466	NC_020133.1	NODE_199_length_9710_cov_7.991965_pilon_pilon_pilon_pilon	99.1		True
+CONTIG	NODE_199_length_9710_cov_7.991965_pilon_pilon_pilon_pilon	9710	correct
+3991143	4000709	126	9692	NC_020133.1	NODE_200_length_9692_cov_8.038996_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_200_length_9692_cov_8.038996_pilon_pilon_pilon_pilon	9692	correct
+2881963	2891548	1	9576	NC_020133.1	NODE_201_length_9576_cov_7.420785_pilon_pilon_pilon_pilon	99.16		True
+CONTIG	NODE_201_length_9576_cov_7.420785_pilon_pilon_pilon_pilon	9576	correct
+806765	816034	127	9392	NC_020133.1	NODE_202_length_9517_cov_7.351012_pilon_pilon_pilon_pilon	99.43		True
+CONTIG	NODE_202_length_9517_cov_7.351012_pilon_pilon_pilon_pilon	9517	correct
+3596392	3605295	9054	151	NC_020133.1	NODE_203_length_9180_cov_6.915498_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_203_length_9180_cov_6.915498_pilon_pilon_pilon_pilon	9180	correct
+5215584	5224531	1	8949	NC_020133.1	NODE_204_length_9070_cov_7.971598_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_204_length_9070_cov_7.971598_pilon_pilon_pilon_pilon	9070	correct
+3121609	3130521	8916	1	NC_020133.1	NODE_205_length_9039_cov_8.806553_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_205_length_9039_cov_8.806553_pilon_pilon_pilon_pilon	9039	correct
+382692	382954	263	1	NC_020133.1	NODE_206_length_8946_cov_7.831727_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = -19020
+393153	401711	8822	264	NC_020133.1	NODE_206_length_8946_cov_7.831727_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_206_length_8946_cov_7.831727_pilon_pilon_pilon_pilon	8946	misassembled
+3815281	3824071	130	8921	NC_020133.1	NODE_207_length_8921_cov_7.292358_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_207_length_8921_cov_7.292358_pilon_pilon_pilon_pilon	8921	correct
+5249374	5257911	8686	125	NC_020133.1	NODE_208_length_8809_cov_13.900944_pilon_pilon_pilon_pilon	99.33		True
+CONTIG	NODE_208_length_8809_cov_13.900944_pilon_pilon_pilon_pilon	8809	correct
+2905803	2909327	45	3569	NC_020133.1	NODE_209_length_8806_cov_7.318355_pilon_pilon_pilon_pilon	99.75		True
+relocation, inconsistency = 1374
+2910702	2915791	3570	8668	NC_020133.1	NODE_209_length_8806_cov_7.318355_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_209_length_8806_cov_7.318355_pilon_pilon_pilon_pilon	8806	misassembled
+3965995	3974769	1	8717	NC_020133.1	NODE_210_length_8738_cov_5.748345_pilon_pilon_pilon_pilon	96.94		True
+CONTIG	NODE_210_length_8738_cov_5.748345_pilon_pilon_pilon_pilon	8738	correct
+1691540	1700149	8609	1	NC_020133.1	NODE_211_length_8730_cov_6.341974_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_211_length_8730_cov_6.341974_pilon_pilon_pilon_pilon	8730	correct
+6162739	6171277	1	8494	NC_020133.1	NODE_212_length_8621_cov_6.982929_pilon_pilon_pilon_pilon	98.78		True
+CONTIG	NODE_212_length_8621_cov_6.982929_pilon_pilon_pilon_pilon	8621	correct
+CONTIG	NODE_213_length_8563_cov_12.861072_pilon_pilon_pilon_pilon	8563	unaligned
+2938969	2947458	8531	59	NC_020133.1	NODE_214_length_8536_cov_5.779760_pilon_pilon_pilon_pilon	99.38		True
+CONTIG	NODE_214_length_8536_cov_5.779760_pilon_pilon_pilon_pilon	8536	correct
+2004914	2013307	127	8478	NC_020133.1	NODE_215_length_8478_cov_7.249192_pilon_pilon_pilon_pilon	99.2		True
+CONTIG	NODE_215_length_8478_cov_7.249192_pilon_pilon_pilon_pilon	8478	correct
+5580827	5581401	699	125	NC_020133.1	NODE_216_length_8409_cov_8.059285_pilon_pilon_pilon_pilon	99.66		True
+relocation, inconsistency = 1374
+5571978	5579452	8176	700	NC_020133.1	NODE_216_length_8409_cov_8.059285_pilon_pilon_pilon_pilon	99.1		True
+CONTIG	NODE_216_length_8409_cov_8.059285_pilon_pilon_pilon_pilon	8409	misassembled
+1994266	2002530	8389	126	NC_020133.1	NODE_217_length_8389_cov_7.073590_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_217_length_8389_cov_7.073590_pilon_pilon_pilon_pilon	8389	correct
+6109585	6117710	8250	124	NC_020133.1	NODE_218_length_8250_cov_8.152899_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_218_length_8250_cov_8.152899_pilon_pilon_pilon_pilon	8250	correct
+6017804	6025814	8113	125	NC_020133.1	NODE_219_length_8238_cov_7.410554_pilon_pilon_pilon_pilon	99.39		True
+CONTIG	NODE_219_length_8238_cov_7.410554_pilon_pilon_pilon_pilon	8238	correct
+3058675	3065458	6926	123	NC_020133.1	NODE_220_length_8223_cov_7.899333_pilon_pilon_pilon_pilon	99.29		True
+relocation, inconsistency = 1366
+3056142	3057297	8095	6938	NC_020133.1	NODE_220_length_8223_cov_7.899333_pilon_pilon_pilon_pilon	99.22		True
+CONTIG	NODE_220_length_8223_cov_7.899333_pilon_pilon_pilon_pilon	8223	misassembled
+5196242	5197214	124	1097	NC_020133.1	NODE_221_length_8192_cov_7.527464_pilon_pilon_pilon_pilon	99.59		True
+relocation, inconsistency = 4452567
+743160	743674	1612	1098	NC_020133.1	NODE_221_length_8192_cov_7.527464_pilon_pilon_pilon_pilon	99.81		True
+inversion
+736991	743159	1613	7759	NC_020133.1	NODE_221_length_8192_cov_7.527464_pilon_pilon_pilon_pilon	99.38		True
+inversion
+736682	736989	8067	7760	NC_020133.1	NODE_221_length_8192_cov_7.527464_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_221_length_8192_cov_7.527464_pilon_pilon_pilon_pilon	8192	misassembled
+3080614	3081403	796	7	NC_020133.1	NODE_222_length_8171_cov_6.886002_pilon_pilon_pilon_pilon	99.5		True
+relocation, inconsistency = 7914
+3065447	3072699	8045	797	NC_020133.1	NODE_222_length_8171_cov_6.886002_pilon_pilon_pilon_pilon	99.48		True
+CONTIG	NODE_222_length_8171_cov_6.886002_pilon_pilon_pilon_pilon	8171	misassembled
+3961986	3965311	3394	70	NC_020133.1	NODE_223_length_8109_cov_6.305061_pilon_pilon_pilon_pilon	99.46		True
+relocation, inconsistency = 12760
+3944511	3947313	5307	8109	NC_020133.1	NODE_223_length_8109_cov_6.305061_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_223_length_8109_cov_6.305061_pilon_pilon_pilon_pilon	8109	misassembled
+1586062	1593533	1	7488	NC_020133.1	NODE_224_length_8074_cov_7.605260_pilon_pilon_pilon_pilon	99.28		True
+relocation, inconsistency = 1375
+1594909	1595182	7489	7762	NC_020133.1	NODE_224_length_8074_cov_7.605260_pilon_pilon_pilon_pilon	100.0		True
+inversion
+1594586	1594897	8074	7763	NC_020133.1	NODE_224_length_8074_cov_7.605260_pilon_pilon_pilon_pilon	97.76		True
+CONTIG	NODE_224_length_8074_cov_7.605260_pilon_pilon_pilon_pilon	8074	misassembled
+4461379	4467420	123	6164	NC_020133.1	NODE_225_length_8046_cov_7.524687_pilon_pilon_pilon_pilon	99.62		True
+relocation, inconsistency = 33332
+4500753	4502609	6165	8021	NC_020133.1	NODE_225_length_8046_cov_7.524687_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_225_length_8046_cov_7.524687_pilon_pilon_pilon_pilon	8046	misassembled
+3326456	3333431	1	6977	NC_020133.1	NODE_226_length_7957_cov_6.212261_pilon_pilon_pilon_pilon	99.74		True
+relocation, inconsistency = 1376
+3334808	3335663	6978	7833	NC_020133.1	NODE_226_length_7957_cov_6.212261_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_226_length_7957_cov_6.212261_pilon_pilon_pilon_pilon	7957	misassembled
+2753409	2761214	4	7819	NC_020133.1	NODE_227_length_7942_cov_7.680870_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_227_length_7942_cov_7.680870_pilon_pilon_pilon_pilon	7942	correct
+5085961	5093771	126	7935	NC_020133.1	NODE_228_length_7935_cov_6.938653_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_228_length_7935_cov_6.938653_pilon_pilon_pilon_pilon	7935	correct
+5277431	5284820	377	7756	NC_020133.1	NODE_229_length_7879_cov_6.443627_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_229_length_7879_cov_6.443627_pilon_pilon_pilon_pilon	7879	correct
+3857388	3865161	7781	1	NC_020133.1	NODE_230_length_7781_cov_6.990071_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_230_length_7781_cov_6.990071_pilon_pilon_pilon_pilon	7781	correct
+1579439	1586055	6618	1	NC_020133.1	NODE_231_length_7765_cov_7.336606_pilon_pilon_pilon_pilon	99.82		True
+CONTIG	NODE_231_length_7765_cov_7.336606_pilon_pilon_pilon_pilon	7765	correct
+2564062	2567234	1	3172	NC_020133.1	NODE_232_length_7758_cov_7.576989_pilon_pilon_pilon_pilon	99.53		True
+relocation, inconsistency = 1375
+2568610	2573070	3173	7633	NC_020133.1	NODE_232_length_7758_cov_7.576989_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_232_length_7758_cov_7.576989_pilon_pilon_pilon_pilon	7758	misassembled
+1781745	1788630	7012	127	NC_020133.1	NODE_233_length_7732_cov_8.550690_pilon_pilon_pilon_pilon	99.78		True
+relocation, inconsistency = 1374
+1779836	1780370	7548	7013	NC_020133.1	NODE_233_length_7732_cov_8.550690_pilon_pilon_pilon_pilon	99.63		True
+indel: indel (> 5bp)
+1779713	1779835	7732	7610	NC_020133.1	NODE_233_length_7732_cov_8.550690_pilon_pilon_pilon_pilon	99.19		True
+CONTIG	NODE_233_length_7732_cov_8.550690_pilon_pilon_pilon_pilon	7732	misassembled
+2419778	2427441	1	7590	NC_020133.1	NODE_234_length_7715_cov_7.465867_pilon_pilon_pilon_pilon	98.8		True
+CONTIG	NODE_234_length_7715_cov_7.465867_pilon_pilon_pilon_pilon	7715	correct
+1457824	1465372	1	7548	NC_020133.1	NODE_235_length_7709_cov_6.384331_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_235_length_7709_cov_6.384331_pilon_pilon_pilon_pilon	7709	correct
+675472	683197	7629	1	NC_020133.1	NODE_236_length_7693_cov_6.012687_pilon_pilon_pilon_pilon	96.91		True
+CONTIG	NODE_236_length_7693_cov_6.012687_pilon_pilon_pilon_pilon	7694	correct
+2893205	2895780	2571	1	NC_020133.1	NODE_237_length_7662_cov_6.478965_pilon_pilon_pilon_pilon	99.03		True
+relocation, inconsistency = 762160
+3657947	3663024	2578	7607	NC_020133.1	NODE_237_length_7662_cov_6.478965_pilon_pilon_pilon_pilon	98.56		True
+CONTIG	NODE_237_length_7662_cov_6.478965_pilon_pilon_pilon_pilon	7662	misassembled
+1501366	1508936	124	7520	NC_020133.1	NODE_238_length_7520_cov_6.716894_pilon_pilon_pilon_pilon	97.05		True
+CONTIG	NODE_238_length_7520_cov_6.716894_pilon_pilon_pilon_pilon	7520	correct
+4316872	4324260	7379	6	NC_020133.1	NODE_239_length_7504_cov_9.715467_pilon_pilon_pilon_pilon	99.45		True
+CONTIG	NODE_239_length_7504_cov_9.715467_pilon_pilon_pilon_pilon	7504	correct
+4187840	4194642	1	6789	NC_020133.1	NODE_240_length_7499_cov_7.984536_pilon_pilon_pilon_pilon	99.5		True
+relocation, inconsistency = 1374
+4196017	4196602	6790	7375	NC_020133.1	NODE_240_length_7499_cov_7.984536_pilon_pilon_pilon_pilon	99.5		True
+CONTIG	NODE_240_length_7499_cov_7.984536_pilon_pilon_pilon_pilon	7499	misassembled
+3767350	3774682	7333	1	NC_020133.1	NODE_241_length_7333_cov_7.608937_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_241_length_7333_cov_7.608937_pilon_pilon_pilon_pilon	7333	correct
+3366809	3372006	5222	24	NC_020133.1	NODE_242_length_7248_cov_5.990029_pilon_pilon_pilon_pilon	99.27		True
+relocation, inconsistency = 1366
+3363539	3365442	7126	5223	NC_020133.1	NODE_242_length_7248_cov_5.990029_pilon_pilon_pilon_pilon	98.27		True
+CONTIG	NODE_242_length_7248_cov_5.990029_pilon_pilon_pilon_pilon	7248	misassembled
+4132913	4139860	7074	125	NC_020133.1	NODE_243_length_7197_cov_7.137199_pilon_pilon_pilon_pilon	99.58		True
+CONTIG	NODE_243_length_7197_cov_7.137199_pilon_pilon_pilon_pilon	7197	correct
+4158137	4158756	1	620	NC_020133.1	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	99.52		True
+indel: indel (> 5bp)
+4158852	4159788	621	1547	NC_020133.1	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	97.01		True
+indel: indel (> 5bp)
+4159918	4160768	1548	2395	NC_020133.1	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	98.26		True
+relocation, inconsistency = 1376
+4162145	4164399	2396	4650	NC_020133.1	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	99.38		True
+relocation, inconsistency = 1093500
+5257902	5258608	5358	4653	NC_020133.1	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	99.01		True
+relocation, inconsistency = 2921087
+2335596	2336642	6602	5531	NC_020133.1	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	97.11		True
+inversion
+2335205	2335605	6604	7004	NC_020133.1	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_244_length_7129_cov_16.607112_pilon_pilon_pilon_pilon	7129	misassembled
+2410357	2417079	6846	126	NC_020133.1	NODE_245_length_6974_cov_7.380605_pilon_pilon_pilon_pilon	99.04		True
+CONTIG	NODE_245_length_6974_cov_7.380605_pilon_pilon_pilon_pilon	6974	correct
+5077139	5083840	126	6828	NC_020133.1	NODE_246_length_6952_cov_7.504762_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_246_length_6952_cov_7.504762_pilon_pilon_pilon_pilon	6952	correct
+1736882	1743806	6925	1	NC_020133.1	NODE_247_length_6925_cov_8.188438_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_247_length_6925_cov_8.188438_pilon_pilon_pilon_pilon	6925	correct
+5532616	5539376	1	6782	NC_020133.1	NODE_248_length_6906_cov_8.823868_pilon_pilon_pilon_pilon	99.42		True
+CONTIG	NODE_248_length_6906_cov_8.823868_pilon_pilon_pilon_pilon	6906	correct
+3132529	3138795	230	6497	NC_020133.1	NODE_249_length_6864_cov_7.608579_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_249_length_6864_cov_7.608579_pilon_pilon_pilon_pilon	6864	correct
+3936422	3943271	6722	1	NC_020133.1	NODE_250_length_6805_cov_7.686433_pilon_pilon_pilon_pilon	97.65		True
+CONTIG	NODE_250_length_6805_cov_7.686433_pilon_pilon_pilon_pilon	6805	correct
+4798263	4804792	6652	123	NC_020133.1	NODE_251_length_6777_cov_7.997594_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_251_length_6777_cov_7.997594_pilon_pilon_pilon_pilon	6777	correct
+3284856	3289066	4238	29	NC_020133.1	NODE_252_length_6765_cov_6.021844_pilon_pilon_pilon_pilon	99.5		True
+relocation, inconsistency = -2490543
+5772877	5775374	6765	4263	NC_020133.1	NODE_252_length_6765_cov_6.021844_pilon_pilon_pilon_pilon	99.44		True
+CONTIG	NODE_252_length_6765_cov_6.021844_pilon_pilon_pilon_pilon	6765	misassembled
+2482594	2489103	126	6635	NC_020133.1	NODE_253_length_6753_cov_7.266677_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_253_length_6753_cov_7.266677_pilon_pilon_pilon_pilon	6753	correct
+3267396	3274022	1	6613	NC_020133.1	NODE_254_length_6738_cov_6.686129_pilon_pilon_pilon_pilon	99.44		True
+CONTIG	NODE_254_length_6738_cov_6.686129_pilon_pilon_pilon_pilon	6738	correct
+3664967	3671622	1	6652	NC_020133.1	NODE_255_length_6652_cov_7.108966_pilon_pilon_pilon_pilon	99.5		True
+CONTIG	NODE_255_length_6652_cov_7.108966_pilon_pilon_pilon_pilon	6652	correct
+5207225	5213616	125	6517	NC_020133.1	NODE_256_length_6641_cov_7.222137_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_256_length_6641_cov_7.222137_pilon_pilon_pilon_pilon	6641	correct
+5313048	5319454	110	6519	NC_020133.1	NODE_257_length_6641_cov_7.080749_pilon_pilon_pilon_pilon	99.52		True
+CONTIG	NODE_257_length_6641_cov_7.080749_pilon_pilon_pilon_pilon	6641	correct
+3335653	3341953	6423	123	NC_020133.1	NODE_258_length_6546_cov_8.134133_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_258_length_6546_cov_8.134133_pilon_pilon_pilon_pilon	6546	correct
+2851813	2858050	173	6420	NC_020133.1	NODE_259_length_6546_cov_7.430597_pilon_pilon_pilon_pilon	99.52		True
+CONTIG	NODE_259_length_6546_cov_7.430597_pilon_pilon_pilon_pilon	6546	correct
+800007	806351	6484	131	NC_020133.1	NODE_260_length_6498_cov_6.649192_pilon_pilon_pilon_pilon	99.58		True
+CONTIG	NODE_260_length_6498_cov_6.649192_pilon_pilon_pilon_pilon	6498	correct
+521746	525921	6236	2059	NC_020133.1	NODE_261_length_6357_cov_8.017175_pilon_pilon_pilon_pilon	99.43		True
+CONTIG	NODE_261_length_6357_cov_8.017175_pilon_pilon_pilon_pilon	6357	correct
+5030764	5036622	6322	497	NC_020133.1	NODE_262_length_6322_cov_5.578047_pilon_pilon_pilon_pilon	98.52		True
+CONTIG	NODE_262_length_6322_cov_5.578047_pilon_pilon_pilon_pilon	6322	correct
+4792158	4798272	6238	124	NC_020133.1	NODE_263_length_6306_cov_6.804175_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_263_length_6306_cov_6.804175_pilon_pilon_pilon_pilon	6306	correct
+6008332	6014545	6215	1	NC_020133.1	NODE_264_length_6215_cov_8.638141_pilon_pilon_pilon_pilon	99.58		True
+CONTIG	NODE_264_length_6215_cov_8.638141_pilon_pilon_pilon_pilon	6215	correct
+4686898	4693072	1	6175	NC_020133.1	NODE_265_length_6175_cov_6.831680_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_265_length_6175_cov_6.831680_pilon_pilon_pilon_pilon	6175	correct
+868352	874250	123	6032	NC_020133.1	NODE_266_length_6154_cov_8.202920_pilon_pilon_pilon_pilon	99.15		True
+CONTIG	NODE_266_length_6154_cov_8.202920_pilon_pilon_pilon_pilon	6154	correct
+5240521	5244735	10	4224	NC_020133.1	NODE_267_length_6120_cov_8.972301_pilon_pilon_pilon_pilon	99.5		True
+relocation, inconsistency = 2876
+5247823	5249384	4436	5997	NC_020133.1	NODE_267_length_6120_cov_8.972301_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_267_length_6120_cov_8.972301_pilon_pilon_pilon_pilon	6120	misassembled
+4960216	4965841	5628	1	NC_020133.1	NODE_268_length_6109_cov_14.219325_pilon_pilon_pilon_pilon	99.52		True
+CONTIG	NODE_268_length_6109_cov_14.219325_pilon_pilon_pilon_pilon	5783	correct
+4885494	4891538	6105	76	NC_020133.1	NODE_269_length_6105_cov_6.690365_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_269_length_6105_cov_6.690365_pilon_pilon_pilon_pilon	6105	correct
+4955730	4958852	5939	2817	NC_020133.1	NODE_270_length_6063_cov_8.050034_pilon_pilon_pilon_pilon	99.42		True
+CONTIG	NODE_270_length_6063_cov_8.050034_pilon_pilon_pilon_pilon	6063	correct
+5999479	6005423	5918	1	NC_020133.1	NODE_271_length_6040_cov_8.628784_pilon_pilon_pilon_pilon	99.19		True
+CONTIG	NODE_271_length_6040_cov_8.628784_pilon_pilon_pilon_pilon	6040	correct
+12648	18563	124	6039	NC_020133.1	NODE_272_length_6039_cov_8.202470_pilon_pilon_pilon_pilon	99.41		True
+CONTIG	NODE_272_length_6039_cov_8.202470_pilon_pilon_pilon_pilon	6039	correct
+5203950	5207234	3431	123	NC_020133.1	NODE_273_length_6005_cov_4.127084_pilon_pilon_pilon_pilon	99.0		True
+local misassembly
+5202089	5203958	6005	4137	NC_020133.1	NODE_273_length_6005_cov_4.127084_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_273_length_6005_cov_4.127084_pilon_pilon_pilon_pilon	6005	correct
+3021271	3026994	5726	1	NC_020133.1	NODE_274_length_5846_cov_7.589614_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_274_length_5846_cov_7.589614_pilon_pilon_pilon_pilon	5846	correct
+886153	889291	1	3133	NC_020133.1	NODE_275_length_5803_cov_15.327167_pilon_pilon_pilon_pilon	99.62		True
+relocation, inconsistency = 7725
+875884	878427	5677	3134	NC_020133.1	NODE_275_length_5803_cov_15.327167_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_275_length_5803_cov_15.327167_pilon_pilon_pilon_pilon	5803	misassembled
+6103900	6109519	122	5741	NC_020133.1	NODE_276_length_5767_cov_8.271631_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_276_length_5767_cov_8.271631_pilon_pilon_pilon_pilon	5767	correct
+714401	719903	5623	124	NC_020133.1	NODE_277_length_5745_cov_6.813635_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_277_length_5745_cov_6.813635_pilon_pilon_pilon_pilon	5745	correct
+5962760	5965846	1	3087	NC_020133.1	NODE_278_length_5724_cov_7.231374_pilon_pilon_pilon_pilon	99.64		True
+local misassembly
+5967213	5968185	4627	5599	NC_020133.1	NODE_278_length_5724_cov_7.231374_pilon_pilon_pilon_pilon	99.49		True
+CONTIG	NODE_278_length_5724_cov_7.231374_pilon_pilon_pilon_pilon	5724	correct
+4021842	4024626	1	2785	NC_020133.1	NODE_279_length_5723_cov_7.420300_pilon_pilon_pilon_pilon	99.46		True
+relocation, inconsistency = 433956
+4458583	4461390	2786	5600	NC_020133.1	NODE_279_length_5723_cov_7.420300_pilon_pilon_pilon_pilon	99.4		True
+CONTIG	NODE_279_length_5723_cov_7.420300_pilon_pilon_pilon_pilon	5723	misassembled
+5710566	5716254	5694	6	NC_020133.1	NODE_280_length_5698_cov_9.483935_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_280_length_5698_cov_9.483935_pilon_pilon_pilon_pilon	5698	correct
+2489172	2494698	1	5553	NC_020133.1	NODE_281_length_5681_cov_7.553295_pilon_pilon_pilon_pilon	98.74		True
+CONTIG	NODE_281_length_5681_cov_7.553295_pilon_pilon_pilon_pilon	5681	correct
+5779459	5784998	5545	6	NC_020133.1	NODE_282_length_5669_cov_8.832551_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_282_length_5669_cov_8.832551_pilon_pilon_pilon_pilon	5669	correct
+4933772	4939185	125	5538	NC_020133.1	NODE_283_length_5664_cov_7.308290_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_283_length_5664_cov_7.308290_pilon_pilon_pilon_pilon	5664	correct
+CONTIG	NODE_284_length_5538_cov_88.188135_pilon_pilon_pilon_pilon	5311	unaligned
+2726450	2731407	146	5105	NC_020133.1	NODE_285_length_5455_cov_7.425300_pilon_pilon_pilon_pilon	99.58		True
+CONTIG	NODE_285_length_5455_cov_7.425300_pilon_pilon_pilon_pilon	5455	correct
+CONTIG	NODE_286_length_5436_cov_14.646826_pilon_pilon_pilon_pilon	5436	unaligned
+561048	561445	133	530	NC_020133.1	NODE_287_length_5424_cov_7.617708_pilon_pilon_pilon_pilon	98.28		True
+relocation, inconsistency = 1376
+562822	567593	531	5302	NC_020133.1	NODE_287_length_5424_cov_7.617708_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_287_length_5424_cov_7.617708_pilon_pilon_pilon_pilon	5424	misassembled
+4757770	4763069	1	5419	NC_020133.1	NODE_288_length_5419_cov_6.781179_pilon_pilon_pilon_pilon	97.56		True
+CONTIG	NODE_288_length_5419_cov_6.781179_pilon_pilon_pilon_pilon	5419	correct
+2096084	2101367	1	5283	NC_020133.1	NODE_289_length_5404_cov_8.544628_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_289_length_5404_cov_8.544628_pilon_pilon_pilon_pilon	5404	correct
+2433128	2438274	5272	124	NC_020133.1	NODE_290_length_5272_cov_7.788727_pilon_pilon_pilon_pilon	99.4		True
+CONTIG	NODE_290_length_5272_cov_7.788727_pilon_pilon_pilon_pilon	5272	correct
+850818	855920	5145	122	NC_020133.1	NODE_291_length_5269_cov_7.022559_pilon_pilon_pilon_pilon	98.28		True
+CONTIG	NODE_291_length_5269_cov_7.022559_pilon_pilon_pilon_pilon	5269	correct
+3255619	3260812	5194	1	NC_020133.1	NODE_292_length_5194_cov_6.674561_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_292_length_5194_cov_6.674561_pilon_pilon_pilon_pilon	5194	correct
+2997259	3002428	5170	1	NC_020133.1	NODE_293_length_5170_cov_7.948245_pilon_pilon_pilon_pilon	99.26		True
+CONTIG	NODE_293_length_5170_cov_7.948245_pilon_pilon_pilon_pilon	5170	correct
+147965	152970	5006	1	NC_020133.1	NODE_294_length_5129_cov_7.913635_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_294_length_5129_cov_7.913635_pilon_pilon_pilon_pilon	5129	correct
+6156026	6161020	5107	124	NC_020133.1	NODE_295_length_5107_cov_6.877711_pilon_pilon_pilon_pilon	98.25		True
+CONTIG	NODE_295_length_5107_cov_6.877711_pilon_pilon_pilon_pilon	5107	correct
+2813959	2818733	4899	125	NC_020133.1	NODE_296_length_5032_cov_6.505403_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_296_length_5032_cov_6.505403_pilon_pilon_pilon_pilon	5032	correct
+5197204	5202105	4903	1	NC_020133.1	NODE_297_length_5026_cov_7.887528_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_297_length_5026_cov_7.887528_pilon_pilon_pilon_pilon	5026	correct
+648333	652067	3858	124	NC_020133.1	NODE_298_length_4982_cov_8.310814_pilon_pilon_pilon_pilon	99.68		True
+relocation, inconsistency = 1376
+646273	646956	4542	3859	NC_020133.1	NODE_298_length_4982_cov_8.310814_pilon_pilon_pilon_pilon	99.71		True
+relocation, inconsistency = 1376
+644583	644896	4856	4543	NC_020133.1	NODE_298_length_4982_cov_8.310814_pilon_pilon_pilon_pilon	98.77		True
+CONTIG	NODE_298_length_4982_cov_8.310814_pilon_pilon_pilon_pilon	4982	misassembled
+3373243	3378081	4963	125	NC_020133.1	NODE_299_length_4965_cov_6.908433_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_299_length_4965_cov_6.908433_pilon_pilon_pilon_pilon	4965	correct
+4494690	4499510	4823	1	NC_020133.1	NODE_300_length_4945_cov_8.735782_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_300_length_4945_cov_8.735782_pilon_pilon_pilon_pilon	4945	correct
+1856597	1861537	1	4930	NC_020133.1	NODE_301_length_4930_cov_8.782011_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_301_length_4930_cov_8.782011_pilon_pilon_pilon_pilon	4930	correct
+5968176	5972945	124	4892	NC_020133.1	NODE_302_length_4892_cov_7.941028_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_302_length_4892_cov_7.941028_pilon_pilon_pilon_pilon	4892	correct
+5133355	5138227	4872	1	NC_020133.1	NODE_303_length_4872_cov_7.488725_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_303_length_4872_cov_7.488725_pilon_pilon_pilon_pilon	4872	correct
+1818662	1820038	1503	127	NC_020133.1	NODE_304_length_4871_cov_7.169266_pilon_pilon_pilon_pilon	99.49		True
+relocation, inconsistency = 1374
+1814045	1817286	4747	1505	NC_020133.1	NODE_304_length_4871_cov_7.169266_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_304_length_4871_cov_7.169266_pilon_pilon_pilon_pilon	4871	misassembled
+925906	930523	125	4742	NC_020133.1	NODE_305_length_4867_cov_6.677637_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_305_length_4867_cov_6.677637_pilon_pilon_pilon_pilon	4867	correct
+3930381	3935140	1	4777	NC_020133.1	NODE_306_length_4861_cov_6.780524_pilon_pilon_pilon_pilon	98.96		True
+CONTIG	NODE_306_length_4861_cov_6.780524_pilon_pilon_pilon_pilon	4861	correct
+1788621	1793291	125	4797	NC_020133.1	NODE_307_length_4797_cov_7.225482_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_307_length_4797_cov_7.225482_pilon_pilon_pilon_pilon	4797	correct
+4371745	4373020	1268	1	NC_020133.1	NODE_308_length_4777_cov_6.741720_pilon_pilon_pilon_pilon	97.05		True
+local misassembly
+4367888	4371378	4777	1269	NC_020133.1	NODE_308_length_4777_cov_6.741720_pilon_pilon_pilon_pilon	98.86		True
+CONTIG	NODE_308_length_4777_cov_6.741720_pilon_pilon_pilon_pilon	4777	correct
+44498	49018	4647	124	NC_020133.1	NODE_309_length_4769_cov_7.950022_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_309_length_4769_cov_7.950022_pilon_pilon_pilon_pilon	4769	correct
+4731183	4735823	4643	1	NC_020133.1	NODE_310_length_4767_cov_7.199353_pilon_pilon_pilon_pilon	99.01		True
+CONTIG	NODE_310_length_4767_cov_7.199353_pilon_pilon_pilon_pilon	4767	correct
+1988590	1993160	4571	1	NC_020133.1	NODE_311_length_4693_cov_7.060666_pilon_pilon_pilon_pilon	99.56		True
+CONTIG	NODE_311_length_4693_cov_7.060666_pilon_pilon_pilon_pilon	4693	correct
+4740666	4745157	4646	139	NC_020133.1	NODE_312_length_4646_cov_8.014162_pilon_pilon_pilon_pilon	99.2		True
+CONTIG	NODE_312_length_4646_cov_8.014162_pilon_pilon_pilon_pilon	4646	correct
+538813	540742	2013	84	NC_020133.1	NODE_313_length_4539_cov_6.990254_pilon_pilon_pilon_pilon	99.53		True
+relocation, inconsistency = 1198
+535213	537447	4415	2181	NC_020133.1	NODE_313_length_4539_cov_6.990254_pilon_pilon_pilon_pilon	99.87		True
+CONTIG	NODE_313_length_4539_cov_6.990254_pilon_pilon_pilon_pilon	4539	misassembled
+2712139	2716454	1	4315	NC_020133.1	NODE_314_length_4441_cov_6.483542_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_314_length_4441_cov_6.483542_pilon_pilon_pilon_pilon	4441	correct
+4602993	4607258	4392	127	NC_020133.1	NODE_315_length_4392_cov_6.323564_pilon_pilon_pilon_pilon	99.72		True
+CONTIG	NODE_315_length_4392_cov_6.323564_pilon_pilon_pilon_pilon	4392	correct
+1962600	1966671	4190	119	NC_020133.1	NODE_316_length_4190_cov_13.479449_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_316_length_4190_cov_13.479449_pilon_pilon_pilon_pilon	4190	correct
+4001291	4005240	4020	84	NC_020133.1	NODE_317_length_4020_cov_7.630362_pilon_pilon_pilon_pilon	99.16		True
+CONTIG	NODE_317_length_4020_cov_7.630362_pilon_pilon_pilon_pilon	4020	correct
+374187	377955	3892	124	NC_020133.1	NODE_318_length_4017_cov_9.141902_pilon_pilon_pilon_pilon	99.76		True
+CONTIG	NODE_318_length_4017_cov_9.141902_pilon_pilon_pilon_pilon	4017	correct
+3804665	3805737	83	1176	NC_020133.1	NODE_319_length_3982_cov_8.117510_pilon_pilon_pilon_pilon	97.56		True
+relocation, inconsistency = 1375
+3807113	3809706	1177	3772	NC_020133.1	NODE_319_length_3982_cov_8.117510_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_319_length_3982_cov_8.117510_pilon_pilon_pilon_pilon	3982	misassembled
+154080	154213	3980	3847	NC_020133.1	NODE_320_length_3980_cov_13.298469_pilon_pilon_pilon_pilon	99.25		True
+CONTIG	NODE_320_length_3980_cov_13.298469_pilon_pilon_pilon_pilon	3980	correct_unaligned
+CONTIG	NODE_321_length_3889_cov_14.092504_pilon_pilon_pilon_pilon	3889	unaligned
+3115559	3119303	1	3749	NC_020133.1	NODE_322_length_3834_cov_5.204208_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_322_length_3834_cov_5.204208_pilon_pilon_pilon_pilon	3834	correct
+2445010	2448609	3724	125	NC_020133.1	NODE_323_length_3824_cov_6.956451_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_323_length_3824_cov_6.956451_pilon_pilon_pilon_pilon	3824	correct
+2557177	2560743	3692	126	NC_020133.1	NODE_324_length_3816_cov_7.767688_pilon_pilon_pilon_pilon	99.66		True
+CONTIG	NODE_324_length_3816_cov_7.767688_pilon_pilon_pilon_pilon	3816	correct
+2462726	2466473	1	3764	NC_020133.1	NODE_325_length_3764_cov_6.160022_pilon_pilon_pilon_pilon	98.17		True
+CONTIG	NODE_325_length_3764_cov_6.160022_pilon_pilon_pilon_pilon	3764	correct
+CONTIG	NODE_326_length_3744_cov_56.706663_pilon_pilon_pilon_pilon	3744	unaligned
+2847860	2851580	1	3721	NC_020133.1	NODE_327_length_3721_cov_8.334725_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_327_length_3721_cov_8.334725_pilon_pilon_pilon_pilon	3721	correct
+1050153	1051719	124	1690	NC_020133.1	NODE_328_length_3712_cov_7.652999_pilon_pilon_pilon_pilon	99.55		True
+relocation, inconsistency = 2467
+1054199	1056050	3554	1703	NC_020133.1	NODE_328_length_3712_cov_7.652999_pilon_pilon_pilon_pilon	99.84		True
+CONTIG	NODE_328_length_3712_cov_7.652999_pilon_pilon_pilon_pilon	3712	misassembled
+5775948	5779468	3646	125	NC_020133.1	NODE_329_length_3679_cov_9.377252_pilon_pilon_pilon_pilon	99.57		True
+CONTIG	NODE_329_length_3679_cov_9.377252_pilon_pilon_pilon_pilon	3679	correct
+880128	882837	121	2830	NC_020133.1	NODE_330_length_3672_cov_7.861777_pilon_pilon_pilon_pilon	99.56		True
+relocation, inconsistency = 1374
+884212	884954	2831	3590	NC_020133.1	NODE_330_length_3672_cov_7.861777_pilon_pilon_pilon_pilon	96.75		True
+CONTIG	NODE_330_length_3672_cov_7.861777_pilon_pilon_pilon_pilon	3672	misassembled
+4591823	4595247	3549	123	NC_020133.1	NODE_331_length_3669_cov_14.376906_pilon_pilon_pilon_pilon	99.74		True
+CONTIG	NODE_331_length_3669_cov_14.376906_pilon_pilon_pilon_pilon	3669	correct
+656506	660164	3660	1	NC_020133.1	NODE_332_length_3660_cov_5.468157_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_332_length_3660_cov_5.468157_pilon_pilon_pilon_pilon	3660	correct
+5040969	5044394	3422	12	NC_020133.1	NODE_333_length_3579_cov_6.987833_pilon_pilon_pilon_pilon	99.21		True
+CONTIG	NODE_333_length_3579_cov_6.987833_pilon_pilon_pilon_pilon	3579	correct
+5284809	5288092	126	3409	NC_020133.1	NODE_334_length_3534_cov_6.742002_pilon_pilon_pilon_pilon	99.79		True
+CONTIG	NODE_334_length_3534_cov_6.742002_pilon_pilon_pilon_pilon	3534	correct
+3552912	3556185	127	3400	NC_020133.1	NODE_335_length_3528_cov_15.206998_pilon_pilon_pilon_pilon	99.57		True
+CONTIG	NODE_335_length_3528_cov_15.206998_pilon_pilon_pilon_pilon	3528	correct
+5399848	5400093	1	246	NC_020133.1	NODE_336_length_3480_cov_8.471816_pilon_pilon_pilon_pilon	99.19		True
+relocation, inconsistency = 18980
+5419074	5422183	3357	247	NC_020133.1	NODE_336_length_3480_cov_8.471816_pilon_pilon_pilon_pilon	99.49		True
+CONTIG	NODE_336_length_3480_cov_8.471816_pilon_pilon_pilon_pilon	3480	misassembled
+2092582	2096044	1	3463	NC_020133.1	NODE_337_length_3463_cov_8.035971_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_337_length_3463_cov_8.035971_pilon_pilon_pilon_pilon	3463	correct
+2151212	2154542	3454	124	NC_020133.1	NODE_338_length_3454_cov_8.460775_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_338_length_3454_cov_8.460775_pilon_pilon_pilon_pilon	3454	correct
+5819245	5822287	155	3198	NC_020133.1	NODE_339_length_3439_cov_8.305254_pilon_pilon_pilon_pilon	99.61		True
+relocation, inconsistency = 360051
+6182339	6182579	3199	3439	NC_020133.1	NODE_339_length_3439_cov_8.305254_pilon_pilon_pilon_pilon	97.13		True
+CONTIG	NODE_339_length_3439_cov_8.305254_pilon_pilon_pilon_pilon	3439	misassembled
+4735831	4739265	1	3435	NC_020133.1	NODE_340_length_3435_cov_6.725212_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_340_length_3435_cov_6.725212_pilon_pilon_pilon_pilon	3435	correct
+4237520	4238566	3026	1980	NC_020133.1	NODE_341_length_3430_cov_6.456252_pilon_pilon_pilon_pilon	99.81		True
+unknown
+4235864	4236153	3306	3017	NC_020133.1	NODE_341_length_3430_cov_6.456252_pilon_pilon_pilon_pilon	99.66		True
+unknown
+CONTIG	NODE_341_length_3430_cov_6.456252_pilon_pilon_pilon_pilon	3430	mis_unaligned
+4595235	4598486	122	3373	NC_020133.1	NODE_342_length_3373_cov_8.094578_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_342_length_3373_cov_8.094578_pilon_pilon_pilon_pilon	3373	correct
+5679462	5682829	3369	1	NC_020133.1	NODE_343_length_3369_cov_7.811228_pilon_pilon_pilon_pilon	99.26		True
+CONTIG	NODE_343_length_3369_cov_7.811228_pilon_pilon_pilon_pilon	3369	correct
+4924227	4927452	1	3228	NC_020133.1	NODE_344_length_3353_cov_7.436454_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_344_length_3353_cov_7.436454_pilon_pilon_pilon_pilon	3353	correct
+2013306	2016640	3350	1	NC_020133.1	NODE_345_length_3351_cov_8.860732_pilon_pilon_pilon_pilon	99.31		True
+CONTIG	NODE_345_length_3351_cov_8.860732_pilon_pilon_pilon_pilon	3351	correct
+4727983	4731182	1	3200	NC_020133.1	NODE_346_length_3345_cov_6.729646_pilon_pilon_pilon_pilon	99.53		True
+CONTIG	NODE_346_length_3345_cov_6.729646_pilon_pilon_pilon_pilon	3345	correct
+4365063	4367875	2761	1	NC_020133.1	NODE_347_length_3331_cov_5.840200_pilon_pilon_pilon_pilon	97.34		True
+local misassembly
+4363797	4364197	3331	2931	NC_020133.1	NODE_347_length_3331_cov_5.840200_pilon_pilon_pilon_pilon	95.76		True
+CONTIG	NODE_347_length_3331_cov_5.840200_pilon_pilon_pilon_pilon	3331	correct
+2896083	2899344	1	3262	NC_020133.1	NODE_348_length_3262_cov_4.067943_pilon_pilon_pilon_pilon	99.57		True
+CONTIG	NODE_348_length_3262_cov_4.067943_pilon_pilon_pilon_pilon	3262	correct
+2899325	2902552	21	3245	NC_020133.1	NODE_349_length_3245_cov_7.412123_pilon_pilon_pilon_pilon	99.5		True
+CONTIG	NODE_349_length_3245_cov_7.412123_pilon_pilon_pilon_pilon	3245	correct
+1354119	1356060	1	1941	NC_020133.1	NODE_350_length_3224_cov_7.350339_pilon_pilon_pilon_pilon	99.59		True
+relocation, inconsistency = 1375
+1357436	1358591	1942	3102	NC_020133.1	NODE_350_length_3224_cov_7.350339_pilon_pilon_pilon_pilon	99.4		True
+CONTIG	NODE_350_length_3224_cov_7.350339_pilon_pilon_pilon_pilon	3224	misassembled
+3605291	3608306	3016	1	NC_020133.1	NODE_351_length_3138_cov_6.925938_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_351_length_3138_cov_6.925938_pilon_pilon_pilon_pilon	3138	correct
+5616580	5619419	3017	177	NC_020133.1	NODE_352_length_3136_cov_7.124626_pilon_pilon_pilon_pilon	99.37		True
+CONTIG	NODE_352_length_3136_cov_7.124626_pilon_pilon_pilon_pilon	3136	correct
+4986364	4989208	3030	186	NC_020133.1	NODE_353_length_3114_cov_7.545698_pilon_pilon_pilon_pilon	99.58		True
+CONTIG	NODE_353_length_3114_cov_7.545698_pilon_pilon_pilon_pilon	3114	correct
+2286679	2286884	121	326	NC_020133.1	NODE_354_length_3093_cov_7.567094_pilon_pilon_pilon_pilon	99.51		True
+relocation, inconsistency = 1466
+2288365	2290761	2749	341	NC_020133.1	NODE_354_length_3093_cov_7.567094_pilon_pilon_pilon_pilon	99.25		True
+relocation, inconsistency = 113970
+2404732	2405075	2750	3093	NC_020133.1	NODE_354_length_3093_cov_7.567094_pilon_pilon_pilon_pilon	99.14		True
+CONTIG	NODE_354_length_3093_cov_7.567094_pilon_pilon_pilon_pilon	3093	misassembled
+3975572	3978629	3060	1	NC_020133.1	NODE_355_length_3060_cov_7.756904_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_355_length_3060_cov_7.756904_pilon_pilon_pilon_pilon	3060	correct
+4409807	4412736	1	3002	NC_020133.1	NODE_356_length_3002_cov_7.585043_pilon_pilon_pilon_pilon	97.37		True
+CONTIG	NODE_356_length_3002_cov_7.585043_pilon_pilon_pilon_pilon	3002	correct
+3854353	3857322	1	2963	NC_020133.1	NODE_357_length_2963_cov_6.219323_pilon_pilon_pilon_pilon	99.39		True
+CONTIG	NODE_357_length_2963_cov_6.219323_pilon_pilon_pilon_pilon	2963	correct
+3356010	3358773	2889	126	NC_020133.1	NODE_358_length_2944_cov_7.074547_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_358_length_2944_cov_7.074547_pilon_pilon_pilon_pilon	2944	correct
+3414851	3416784	2060	127	NC_020133.1	NODE_359_length_2930_cov_5.838387_pilon_pilon_pilon_pilon	95.93		True
+relocation, inconsistency = 4169
+3409933	3410660	2808	2082	NC_020133.1	NODE_359_length_2930_cov_5.838387_pilon_pilon_pilon_pilon	99.31		True
+CONTIG	NODE_359_length_2930_cov_5.838387_pilon_pilon_pilon_pilon	2930	misassembled
+2742692	2744068	1376	1	NC_020133.1	NODE_360_length_2904_cov_6.152683_pilon_pilon_pilon_pilon	99.13		True
+relocation, inconsistency = 3275
+2738011	2739415	2781	1378	NC_020133.1	NODE_360_length_2904_cov_6.152683_pilon_pilon_pilon_pilon	99.43		True
+CONTIG	NODE_360_length_2904_cov_6.152683_pilon_pilon_pilon_pilon	2904	misassembled
+6133900	6136592	2752	59	NC_020133.1	NODE_361_length_2874_cov_7.083728_pilon_pilon_pilon_pilon	99.37		True
+CONTIG	NODE_361_length_2874_cov_7.083728_pilon_pilon_pilon_pilon	2874	correct
+3279890	3281382	1490	1	NC_020133.1	NODE_362_length_2870_cov_5.458622_pilon_pilon_pilon_pilon	98.86		True
+relocation, inconsistency = 3028
+3276318	3276861	2025	1491	NC_020133.1	NODE_362_length_2870_cov_5.458622_pilon_pilon_pilon_pilon	98.37		True
+indel: indel (> 5bp)
+3275530	3276317	2870	2083	NC_020133.1	NODE_362_length_2870_cov_5.458622_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_362_length_2870_cov_5.458622_pilon_pilon_pilon_pilon	2870	misassembled
+652057	654697	2710	43	NC_020133.1	NODE_363_length_2833_cov_7.104582_pilon_pilon_pilon_pilon	98.5		True
+CONTIG	NODE_363_length_2833_cov_7.104582_pilon_pilon_pilon_pilon	2833	correct
+3632624	3635364	2825	86	NC_020133.1	NODE_364_length_2830_cov_5.985202_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_364_length_2830_cov_5.985202_pilon_pilon_pilon_pilon	2830	correct
+3788617	3791407	1	2791	NC_020133.1	NODE_365_length_2791_cov_8.465090_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_365_length_2791_cov_8.465090_pilon_pilon_pilon_pilon	2791	correct
+4472099	4473007	909	1	NC_020133.1	NODE_366_length_2787_cov_6.754887_pilon_pilon_pilon_pilon	99.45		True
+relocation, inconsistency = 1612308
+2858039	2859787	2662	913	NC_020133.1	NODE_366_length_2787_cov_6.754887_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_366_length_2787_cov_6.754887_pilon_pilon_pilon_pilon	2787	misassembled
+3325945	3326443	2248	2746	NC_020133.1	NODE_367_length_2746_cov_7.587629_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_367_length_2746_cov_7.587629_pilon_pilon_pilon_pilon	2746	correct_unaligned
+5064270	5066613	2485	142	NC_020133.1	NODE_368_length_2608_cov_15.028214_pilon_pilon_pilon_pilon	99.74		True
+CONTIG	NODE_368_length_2608_cov_15.028214_pilon_pilon_pilon_pilon	2608	correct
+3161450	3163902	124	2576	NC_020133.1	NODE_369_length_2607_cov_5.227016_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_369_length_2607_cov_5.227016_pilon_pilon_pilon_pilon	2607	correct
+3217907	3220364	123	2580	NC_020133.1	NODE_370_length_2580_cov_7.127599_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_370_length_2580_cov_7.127599_pilon_pilon_pilon_pilon	2580	correct
+2680361	2682764	1	2404	NC_020133.1	NODE_371_length_2530_cov_7.456929_pilon_pilon_pilon_pilon	99.54		True
+CONTIG	NODE_371_length_2530_cov_7.456929_pilon_pilon_pilon_pilon	2530	correct
+954366	956268	1992	77	NC_020133.1	NODE_372_length_2529_cov_8.979600_pilon_pilon_pilon_pilon	98.02		True
+CONTIG	NODE_372_length_2529_cov_8.979600_pilon_pilon_pilon_pilon	2529	correct
+4241784	4243353	1	1568	NC_020133.1	NODE_373_length_2527_cov_14.655614_pilon_pilon_pilon_pilon	99.24		True
+CONTIG	NODE_373_length_2527_cov_14.655614_pilon_pilon_pilon_pilon	2527	correct
+6131109	6133628	2520	1	NC_020133.1	NODE_374_length_2520_cov_5.127037_pilon_pilon_pilon_pilon	99.44		True
+CONTIG	NODE_374_length_2520_cov_5.127037_pilon_pilon_pilon_pilon	2520	correct
+2744297	2745483	4	1183	NC_020133.1	NODE_375_length_2397_cov_4.003524_pilon_pilon_pilon_pilon	98.57		True
+indel: indel (> 5bp)
+2745657	2746743	1184	2270	NC_020133.1	NODE_375_length_2397_cov_4.003524_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_375_length_2397_cov_4.003524_pilon_pilon_pilon_pilon	2397	correct
+5083829	5085971	2266	124	NC_020133.1	NODE_376_length_2392_cov_6.380574_pilon_pilon_pilon_pilon	99.58		True
+CONTIG	NODE_376_length_2392_cov_6.380574_pilon_pilon_pilon_pilon	2392	correct
+2621407	2623449	186	2228	NC_020133.1	NODE_377_length_2351_cov_8.573291_pilon_pilon_pilon_pilon	99.76		True
+CONTIG	NODE_377_length_2351_cov_8.573291_pilon_pilon_pilon_pilon	2351	correct
+2634495	2636704	123	2332	NC_020133.1	NODE_378_length_2332_cov_12.979592_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_378_length_2332_cov_12.979592_pilon_pilon_pilon_pilon	2332	correct
+4630925	4632311	125	1511	NC_020133.1	NODE_379_length_2313_cov_11.788655_pilon_pilon_pilon_pilon	98.7		True
+CONTIG	NODE_379_length_2313_cov_11.788655_pilon_pilon_pilon_pilon	2313	correct
+CONTIG	NODE_380_length_2311_cov_0.708467_pilon_pilon_pilon_pilon	2311	unaligned
+4103584	4105367	1907	125	NC_020133.1	NODE_381_length_2310_cov_6.435639_pilon_pilon_pilon_pilon	99.61		True
+relocation, inconsistency = 1376
+4101929	4102207	2186	1908	NC_020133.1	NODE_381_length_2310_cov_6.435639_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_381_length_2310_cov_6.435639_pilon_pilon_pilon_pilon	2310	misassembled
+1794546	1794680	135	1	NC_020133.1	NODE_382_length_2306_cov_2.530519_pilon_pilon_pilon_pilon	99.26		True
+unknown
+1849698	1850019	773	1094	NC_020133.1	NODE_382_length_2306_cov_2.530519_pilon_pilon_pilon_pilon	99.69		True
+unknown
+1850013	1850290	1583	1860	NC_020133.1	NODE_382_length_2306_cov_2.530519_pilon_pilon_pilon_pilon	96.76		True
+unknown
+1850291	1850615	1975	2299	NC_020133.1	NODE_382_length_2306_cov_2.530519_pilon_pilon_pilon_pilon	99.08		True
+unknown
+CONTIG	NODE_382_length_2306_cov_2.530519_pilon_pilon_pilon_pilon	2306	mis_unaligned
+6062391	6063682	1283	1	NC_020133.1	NODE_383_length_2287_cov_2.008333_pilon_pilon_pilon_pilon	97.29		True
+indel: indel (> 5bp)
+6061571	6062324	2043	1284	NC_020133.1	NODE_383_length_2287_cov_2.008333_pilon_pilon_pilon_pilon	95.92		True
+indel: indel (> 5bp)
+6061344	6061528	2228	2044	NC_020133.1	NODE_383_length_2287_cov_2.008333_pilon_pilon_pilon_pilon	96.76		True
+CONTIG	NODE_383_length_2287_cov_2.008333_pilon_pilon_pilon_pilon	2287	correct
+1959824	1961953	124	2256	NC_020133.1	NODE_384_length_2256_cov_12.147957_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_384_length_2256_cov_12.147957_pilon_pilon_pilon_pilon	2256	correct
+3609849	3610382	2220	1682	NC_020133.1	NODE_385_length_2220_cov_6.031534_pilon_pilon_pilon_pilon	98.89		True
+CONTIG	NODE_385_length_2220_cov_6.031534_pilon_pilon_pilon_pilon	2220	correct_unaligned
+1446936	1448746	1811	1	NC_020133.1	NODE_386_length_2211_cov_5.016315_pilon_pilon_pilon_pilon	99.34		True
+indel: indel (> 5bp)
+1446485	1446754	2080	1812	NC_020133.1	NODE_386_length_2211_cov_5.016315_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_386_length_2211_cov_5.016315_pilon_pilon_pilon_pilon	2211	correct
+1957810	1959834	1	2025	NC_020133.1	NODE_387_length_2151_cov_6.651680_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_387_length_2151_cov_6.651680_pilon_pilon_pilon_pilon	2151	correct
+2891420	2891599	180	1	NC_020133.1	NODE_388_length_2089_cov_8.269113_pilon_pilon_pilon_pilon	98.33		True
+CONTIG	NODE_388_length_2089_cov_8.269113_pilon_pilon_pilon_pilon	2089	correct_unaligned
+6058979	6059616	1396	2033	NC_020133.1	NODE_389_length_2033_cov_5.975341_pilon_pilon_pilon_pilon	99.84		True
+CONTIG	NODE_389_length_2033_cov_5.975341_pilon_pilon_pilon_pilon	2033	correct_unaligned
+1452174	1454203	1	2032	NC_020133.1	NODE_390_length_2032_cov_5.400525_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_390_length_2032_cov_5.400525_pilon_pilon_pilon_pilon	2032	correct
+3267396	3267515	1	120	NC_020133.1	NODE_391_length_2019_cov_6.031712_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = -4541
+3262975	3264872	121	2019	NC_020133.1	NODE_391_length_2019_cov_6.031712_pilon_pilon_pilon_pilon	99.58		True
+CONTIG	NODE_391_length_2019_cov_6.031712_pilon_pilon_pilon_pilon	2019	misassembled
+CONTIG	NODE_392_length_1981_cov_1.027478_pilon_pilon_pilon_pilon	1981	unaligned
+849106	850830	1849	125	NC_020133.1	NODE_393_length_1972_cov_7.852033_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_393_length_1972_cov_7.852033_pilon_pilon_pilon_pilon	1972	correct
+2179784	2181606	1	1822	NC_020133.1	NODE_394_length_1944_cov_8.280132_pilon_pilon_pilon_pilon	99.62		True
+CONTIG	NODE_394_length_1944_cov_8.280132_pilon_pilon_pilon_pilon	1944	correct
+1449386	1451292	1	1913	NC_020133.1	NODE_395_length_1913_cov_4.839216_pilon_pilon_pilon_pilon	99.27		True
+CONTIG	NODE_395_length_1913_cov_4.839216_pilon_pilon_pilon_pilon	1913	correct
+5288894	5290507	128	1741	NC_020133.1	NODE_396_length_1901_cov_6.777903_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_396_length_1901_cov_6.777903_pilon_pilon_pilon_pilon	1901	correct
+699443	701076	1754	121	NC_020133.1	NODE_397_length_1879_cov_8.446918_pilon_pilon_pilon_pilon	99.82		True
+CONTIG	NODE_397_length_1879_cov_8.446918_pilon_pilon_pilon_pilon	1879	correct
+3801574	3803310	1	1736	NC_020133.1	NODE_398_length_1873_cov_6.698740_pilon_pilon_pilon_pilon	99.54		True
+inversion
+3803638	3803764	1873	1747	NC_020133.1	NODE_398_length_1873_cov_6.698740_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_398_length_1873_cov_6.698740_pilon_pilon_pilon_pilon	1873	misassembled
+3266804	3267522	710	1	NC_020133.1	NODE_399_length_1868_cov_3.680069_pilon_pilon_pilon_pilon	97.91		True
+indel: indel (> 5bp)
+3265709	3266725	1745	711	NC_020133.1	NODE_399_length_1868_cov_3.680069_pilon_pilon_pilon_pilon	97.87		True
+CONTIG	NODE_399_length_1868_cov_3.680069_pilon_pilon_pilon_pilon	1868	correct
+624671	626410	1	1740	NC_020133.1	NODE_400_length_1867_cov_7.384483_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_400_length_1867_cov_7.384483_pilon_pilon_pilon_pilon	1867	correct
+CONTIG	NODE_401_length_1863_cov_5.380184_pilon_pilon_pilon_pilon	1863	unaligned
+CONTIG	NODE_402_length_1825_cov_11.350412_pilon_pilon_pilon_pilon	1825	unaligned
+755207	756795	123	1728	NC_020133.1	NODE_403_length_1812_cov_8.047478_pilon_pilon_pilon_pilon	98.32		True
+CONTIG	NODE_403_length_1812_cov_8.047478_pilon_pilon_pilon_pilon	1812	correct
+4804735	4804869	1612	1746	NC_020133.1	NODE_404_length_1786_cov_3.362266_pilon_pilon_pilon_pilon	97.78		True
+CONTIG	NODE_404_length_1786_cov_3.362266_pilon_pilon_pilon_pilon	1786	correct_unaligned
+3130931	3132540	1732	123	NC_020133.1	NODE_405_length_1732_cov_7.430530_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_405_length_1732_cov_7.430530_pilon_pilon_pilon_pilon	1732	correct
+4967076	4968729	1634	1	NC_020133.1	NODE_406_length_1717_cov_6.729560_pilon_pilon_pilon_pilon	98.19		True
+CONTIG	NODE_406_length_1717_cov_6.729560_pilon_pilon_pilon_pilon	1717	correct
+1689989	1691549	1683	123	NC_020133.1	NODE_407_length_1689_cov_6.733675_pilon_pilon_pilon_pilon	99.74		True
+CONTIG	NODE_407_length_1689_cov_6.733675_pilon_pilon_pilon_pilon	1689	correct
+2774402	2774535	1674	1541	NC_020133.1	NODE_408_length_1674_cov_15.562379_pilon_pilon_pilon_pilon	99.25		True
+CONTIG	NODE_408_length_1674_cov_15.562379_pilon_pilon_pilon_pilon	1674	correct_unaligned
+1414401	1415945	1	1545	NC_020133.1	NODE_409_length_1672_cov_6.575405_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_409_length_1672_cov_6.575405_pilon_pilon_pilon_pilon	1672	correct
+3563472	3564989	1	1518	NC_020133.1	NODE_410_length_1644_cov_7.905735_pilon_pilon_pilon_pilon	99.28		True
+CONTIG	NODE_410_length_1644_cov_7.905735_pilon_pilon_pilon_pilon	1644	correct
+3799287	3799868	1622	1043	NC_020133.1	NODE_411_length_1627_cov_6.995333_pilon_pilon_pilon_pilon	95.02		True
+CONTIG	NODE_411_length_1627_cov_6.995333_pilon_pilon_pilon_pilon	1627	correct_unaligned
+3867204	3868683	1612	133	NC_020133.1	NODE_412_length_1618_cov_8.965795_pilon_pilon_pilon_pilon	99.59		True
+CONTIG	NODE_412_length_1618_cov_8.965795_pilon_pilon_pilon_pilon	1618	correct
+3631707	3632383	677	1	NC_020133.1	NODE_413_length_1618_cov_4.872569_pilon_pilon_pilon_pilon	99.71		True
+relocation, inconsistency = 1370
+3629519	3630336	1495	678	NC_020133.1	NODE_413_length_1618_cov_4.872569_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_413_length_1618_cov_4.872569_pilon_pilon_pilon_pilon	1618	misassembled
+6196681	6198296	1	1616	NC_020133.1	NODE_414_length_1616_cov_5.754869_pilon_pilon_pilon_pilon	99.38		True
+CONTIG	NODE_414_length_1616_cov_5.754869_pilon_pilon_pilon_pilon	1616	correct
+520418	521757	1465	126	NC_020133.1	NODE_415_length_1611_cov_6.749326_pilon_pilon_pilon_pilon	99.48		True
+local misassembly
+520065	520210	1611	1466	NC_020133.1	NODE_415_length_1611_cov_6.749326_pilon_pilon_pilon_pilon	99.35		True
+CONTIG	NODE_415_length_1611_cov_6.749326_pilon_pilon_pilon_pilon	1611	correct
+3561928	3563426	1499	1	NC_020133.1	NODE_416_length_1575_cov_7.118785_pilon_pilon_pilon_pilon	99.8		True
+CONTIG	NODE_416_length_1575_cov_7.118785_pilon_pilon_pilon_pilon	1575	correct
+6034280	6034587	1	307	NC_020133.1	NODE_417_length_1572_cov_8.134256_pilon_pilon_pilon_pilon	99.03		True
+local misassembly
+6036093	6036595	951	1453	NC_020133.1	NODE_417_length_1572_cov_8.134256_pilon_pilon_pilon_pilon	99.4		True
+CONTIG	NODE_417_length_1572_cov_8.134256_pilon_pilon_pilon_pilon	1572	correct
+2522159	2522709	870	1420	NC_020133.1	NODE_418_length_1546_cov_7.294574_pilon_pilon_pilon_pilon	99.82		True
+unknown
+3630336	3630462	1420	1546	NC_020133.1	NODE_418_length_1546_cov_7.294574_pilon_pilon_pilon_pilon	99.21		True
+unknown
+CONTIG	NODE_418_length_1546_cov_7.294574_pilon_pilon_pilon_pilon	1546	mis_unaligned
+662399	662630	6	237	NC_020133.1	NODE_419_length_1523_cov_5.194126_pilon_pilon_pilon_pilon	99.14		True
+indel: indel (> 5bp)
+662724	664008	238	1523	NC_020133.1	NODE_419_length_1523_cov_5.194126_pilon_pilon_pilon_pilon	99.46		True
+CONTIG	NODE_419_length_1523_cov_5.194126_pilon_pilon_pilon_pilon	1523	correct
+5213607	5214866	1273	15	NC_020133.1	NODE_420_length_1441_cov_4.152207_pilon_pilon_pilon_pilon	99.37		True
+CONTIG	NODE_420_length_1441_cov_4.152207_pilon_pilon_pilon_pilon	1441	correct
+3274013	3275321	1310	1	NC_020133.1	NODE_421_length_1433_cov_6.594946_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_421_length_1433_cov_6.594946_pilon_pilon_pilon_pilon	1433	correct
+CONTIG	NODE_422_length_1431_cov_1.198620_pilon_pilon_pilon_pilon	1431	unaligned
+786415	787838	1424	1	NC_020133.1	NODE_423_length_1424_cov_5.257517_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_423_length_1424_cov_5.257517_pilon_pilon_pilon_pilon	1424	correct
+4891837	4893126	1	1289	NC_020133.1	NODE_424_length_1413_cov_6.374806_pilon_pilon_pilon_pilon	99.53		True
+CONTIG	NODE_424_length_1413_cov_6.374806_pilon_pilon_pilon_pilon	1413	correct
+3608383	3609763	1393	13	NC_020133.1	NODE_425_length_1393_cov_7.226698_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_425_length_1393_cov_7.226698_pilon_pilon_pilon_pilon	1393	correct
+CONTIG	NODE_426_length_1372_cov_0.770281_pilon_pilon_pilon_pilon	1372	unaligned
+2377859	2377995	1004	869	NC_020133.1	NODE_427_length_1326_cov_1.978315_pilon_pilon_pilon_pilon	98.54		True
+CONTIG	NODE_427_length_1326_cov_1.978315_pilon_pilon_pilon_pilon	1326	correct_unaligned
+2562753	2564061	1	1309	NC_020133.1	NODE_428_length_1309_cov_6.210306_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_428_length_1309_cov_6.210306_pilon_pilon_pilon_pilon	1309	correct
+3842503	3843800	1298	1	NC_020133.1	NODE_429_length_1298_cov_5.038596_pilon_pilon_pilon_pilon	99.0		True
+CONTIG	NODE_429_length_1298_cov_5.038596_pilon_pilon_pilon_pilon	1298	correct
+4362265	4363557	1	1293	NC_020133.1	NODE_430_length_1293_cov_5.225557_pilon_pilon_pilon_pilon	99.07		True
+CONTIG	NODE_430_length_1293_cov_5.225557_pilon_pilon_pilon_pilon	1293	correct
+2560739	2561884	130	1280	NC_020133.1	NODE_431_length_1280_cov_6.612316_pilon_pilon_pilon_pilon	98.78		True
+CONTIG	NODE_431_length_1280_cov_6.612316_pilon_pilon_pilon_pilon	1280	correct
+6102761	6103910	1	1150	NC_020133.1	NODE_432_length_1275_cov_6.977352_pilon_pilon_pilon_pilon	99.74		True
+CONTIG	NODE_432_length_1275_cov_6.977352_pilon_pilon_pilon_pilon	1275	correct
+4898005	4898989	1109	123	NC_020133.1	NODE_433_length_1255_cov_7.942376_pilon_pilon_pilon_pilon	99.39		True
+CONTIG	NODE_433_length_1255_cov_7.942376_pilon_pilon_pilon_pilon	1255	correct
+4968755	4969882	1249	123	NC_020133.1	NODE_434_length_1249_cov_6.682709_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_434_length_1249_cov_6.682709_pilon_pilon_pilon_pilon	1249	correct
+886019	886280	1	262	NC_020133.1	NODE_435_length_1244_cov_9.666965_pilon_pilon_pilon_pilon	97.33		True
+relocation, inconsistency = 371999
+1258441	1259187	1158	424	NC_020133.1	NODE_435_length_1244_cov_9.666965_pilon_pilon_pilon_pilon	98.13		True
+CONTIG	NODE_435_length_1244_cov_9.666965_pilon_pilon_pilon_pilon	1244	misassembled
+806345	806774	123	552	NC_020133.1	NODE_436_length_1243_cov_6.000896_pilon_pilon_pilon_pilon	99.53		True
+relocation, inconsistency = 41773
+848548	849113	553	1115	NC_020133.1	NODE_436_length_1243_cov_6.000896_pilon_pilon_pilon_pilon	98.76		True
+CONTIG	NODE_436_length_1243_cov_6.000896_pilon_pilon_pilon_pilon	1243	misassembled
+2443702	2444817	127	1242	NC_020133.1	NODE_437_length_1242_cov_8.315695_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_437_length_1242_cov_8.315695_pilon_pilon_pilon_pilon	1242	correct
+1577018	1578211	1	1222	NC_020133.1	NODE_438_length_1222_cov_5.798174_pilon_pilon_pilon_pilon	97.46		True
+CONTIG	NODE_438_length_1222_cov_5.798174_pilon_pilon_pilon_pilon	1222	correct
+CONTIG	NODE_439_length_1220_cov_58.206770_pilon_pilon_pilon_pilon	1220	unaligned
+2846652	2847859	1	1208	NC_020133.1	NODE_440_length_1208_cov_6.866667_pilon_pilon_pilon_pilon	99.75		True
+CONTIG	NODE_440_length_1208_cov_6.866667_pilon_pilon_pilon_pilon	1208	correct
+1593537	1593655	119	1	NC_020133.1	NODE_441_length_1192_cov_6.188732_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = -4007032
+5599618	5600568	1071	120	NC_020133.1	NODE_441_length_1192_cov_6.188732_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_441_length_1192_cov_6.188732_pilon_pilon_pilon_pilon	1192	misassembled
+1415934	1417001	1068	1	NC_020133.1	NODE_442_length_1190_cov_8.264346_pilon_pilon_pilon_pilon	99.63		True
+CONTIG	NODE_442_length_1190_cov_8.264346_pilon_pilon_pilon_pilon	1190	correct
+CONTIG	NODE_443_length_1185_cov_40.155009_pilon_pilon_pilon_pilon	1185	unaligned
+CONTIG	NODE_444_length_1168_cov_1.092219_pilon_pilon_pilon_pilon	1168	unaligned
+4726950	4728109	1160	1	NC_020133.1	NODE_445_length_1160_cov_16.687318_pilon_pilon_pilon_pilon	99.83		True
+CONTIG	NODE_445_length_1160_cov_16.687318_pilon_pilon_pilon_pilon	1160	correct
+1801756	1802436	809	129	NC_020133.1	NODE_446_length_1160_cov_8.574056_pilon_pilon_pilon_pilon	99.41		True
+indel: indel (> 5bp)
+1801584	1801681	1011	914	NC_020133.1	NODE_446_length_1160_cov_8.574056_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_446_length_1160_cov_8.574056_pilon_pilon_pilon_pilon	1160	correct
+6007064	6008206	1143	1	NC_020133.1	NODE_447_length_1150_cov_4.494624_pilon_pilon_pilon_pilon	99.3		True
+CONTIG	NODE_447_length_1150_cov_4.494624_pilon_pilon_pilon_pilon	1150	correct
+3254467	3255585	1119	1	NC_020133.1	NODE_448_length_1119_cov_3.527218_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_448_length_1119_cov_3.527218_pilon_pilon_pilon_pilon	1119	correct
+2403815	2404769	58	1020	NC_020133.1	NODE_449_length_1104_cov_5.766633_pilon_pilon_pilon_pilon	98.44		True
+CONTIG	NODE_449_length_1104_cov_5.766633_pilon_pilon_pilon_pilon	1104	correct
+4139851	4140824	974	1	NC_020133.1	NODE_450_length_1100_cov_8.912641_pilon_pilon_pilon_pilon	98.77		True
+CONTIG	NODE_450_length_1100_cov_8.912641_pilon_pilon_pilon_pilon	1100	correct
+5961685	5961887	395	597	NC_020133.1	NODE_451_length_1077_cov_1.050526_pilon_pilon_pilon_pilon	99.51		True
+unknown
+5962377	5962690	973	660	NC_020133.1	NODE_451_length_1077_cov_1.050526_pilon_pilon_pilon_pilon	99.04		True
+unknown
+CONTIG	NODE_451_length_1077_cov_1.050526_pilon_pilon_pilon_pilon	1077	mis_unaligned
+2101357	2102180	126	949	NC_020133.1	NODE_452_length_1074_cov_8.151003_pilon_pilon_pilon_pilon	99.76		True
+CONTIG	NODE_452_length_1074_cov_8.151003_pilon_pilon_pilon_pilon	1074	correct
+5288083	5288904	124	945	NC_020133.1	NODE_453_length_1069_cov_10.925690_pilon_pilon_pilon_pilon	99.76		True
+CONTIG	NODE_453_length_1069_cov_10.925690_pilon_pilon_pilon_pilon	1069	correct
+CONTIG	NODE_454_length_1060_cov_178.433012_pilon_pilon_pilon_pilon	1060	unaligned
+660964	661990	6	1039	NC_020133.1	NODE_455_length_1039_cov_4.200658_pilon_pilon_pilon_pilon	98.26		True
+CONTIG	NODE_455_length_1039_cov_4.200658_pilon_pilon_pilon_pilon	1039	correct
+3628775	3629528	892	123	NC_020133.1	NODE_456_length_1017_cov_8.169663_pilon_pilon_pilon_pilon	97.4		True
+relocation, inconsistency = 2743736
+884914	885038	893	1017	NC_020133.1	NODE_456_length_1017_cov_8.169663_pilon_pilon_pilon_pilon	99.21		True
+CONTIG	NODE_456_length_1017_cov_8.169663_pilon_pilon_pilon_pilon	1017	misassembled
+5911449	5911629	87	267	NC_020133.1	NODE_457_length_1005_cov_2.379271_pilon_pilon_pilon_pilon	98.34		True
+local misassembly
+5911615	5912148	481	1005	NC_020133.1	NODE_457_length_1005_cov_2.379271_pilon_pilon_pilon_pilon	97.57		True
+CONTIG	NODE_457_length_1005_cov_2.379271_pilon_pilon_pilon_pilon	1005	correct
+293441	293681	400	160	NC_020133.1	NODE_458_length_972_cov_7.200000_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = 1375
+291616	292064	850	402	NC_020133.1	NODE_458_length_972_cov_7.200000_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_458_length_972_cov_7.200000_pilon_pilon_pilon_pilon	972	misassembled
+3277043	3277652	1	610	NC_020133.1	NODE_459_length_968_cov_2.624257_pilon_pilon_pilon_pilon	99.34		True
+local misassembly
+3277885	3278240	613	968	NC_020133.1	NODE_459_length_968_cov_2.624257_pilon_pilon_pilon_pilon	98.6		True
+CONTIG	NODE_459_length_968_cov_2.624257_pilon_pilon_pilon_pilon	968	correct
+3865916	3866342	757	340	NC_020133.1	NODE_460_length_957_cov_1.895181_pilon_pilon_pilon_pilon	97.66		True
+CONTIG	NODE_460_length_957_cov_1.895181_pilon_pilon_pilon_pilon	957	correct
+3557740	3558236	620	124	NC_020133.1	NODE_461_length_945_cov_9.105134_pilon_pilon_pilon_pilon	99.8		True
+relocation, inconsistency = 1366
+3556247	3556373	747	621	NC_020133.1	NODE_461_length_945_cov_9.105134_pilon_pilon_pilon_pilon	99.23		True
+inversion
+3556175	3556249	748	822	NC_020133.1	NODE_461_length_945_cov_9.105134_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_461_length_945_cov_9.105134_pilon_pilon_pilon_pilon	945	misassembled
+4412737	4413667	1	921	NC_020133.1	NODE_462_length_921_cov_7.556298_pilon_pilon_pilon_pilon	98.82		True
+CONTIG	NODE_462_length_921_cov_7.556298_pilon_pilon_pilon_pilon	921	correct
+CONTIG	NODE_463_length_905_cov_1.183805_pilon_pilon_pilon_pilon	905	unaligned
+CONTIG	NODE_464_length_899_cov_0.909326_pilon_pilon_pilon_pilon	899	unaligned
+212172	213068	897	1	NC_020133.1	NODE_465_length_897_cov_8.088867_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_465_length_897_cov_8.088867_pilon_pilon_pilon_pilon	897	correct
+3027258	3028034	119	895	NC_020133.1	NODE_466_length_895_cov_3.067708_pilon_pilon_pilon_pilon	99.23		True
+CONTIG	NODE_466_length_895_cov_3.067708_pilon_pilon_pilon_pilon	895	correct
+CONTIG	NODE_467_length_881_cov_12.636605_pilon_pilon_pilon_pilon	881	unaligned
+CONTIG	NODE_468_length_881_cov_0.722444_pilon_pilon_pilon_pilon	881	unaligned
+2996191	2997061	1	871	NC_020133.1	NODE_469_length_871_cov_10.290323_pilon_pilon_pilon_pilon	99.2		True
+CONTIG	NODE_469_length_871_cov_10.290323_pilon_pilon_pilon_pilon	871	correct
+2583804	2583890	866	780	NC_020133.1	NODE_470_length_866_cov_1.504736_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_470_length_866_cov_1.504736_pilon_pilon_pilon_pilon	866	correct_unaligned
+3664077	3664940	865	1	NC_020133.1	NODE_471_length_865_cov_5.741192_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_471_length_865_cov_5.741192_pilon_pilon_pilon_pilon	865	correct
+CONTIG	NODE_472_length_860_cov_9.776262_pilon_pilon_pilon_pilon	860	unaligned
+6014587	6015314	851	124	NC_020133.1	NODE_473_length_851_cov_7.600829_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_473_length_851_cov_7.600829_pilon_pilon_pilon_pilon	851	correct
+CONTIG	NODE_474_length_851_cov_0.839779_pilon_pilon_pilon_pilon	851	unaligned
+6136934	6137771	1	824	NC_020133.1	NODE_475_length_844_cov_7.220363_pilon_pilon_pilon_pilon	97.37		True
+CONTIG	NODE_475_length_844_cov_7.220363_pilon_pilon_pilon_pilon	844	correct
+941790	942625	836	1	NC_020133.1	NODE_476_length_836_cov_6.664590_pilon_pilon_pilon_pilon	99.76		True
+CONTIG	NODE_476_length_836_cov_6.664590_pilon_pilon_pilon_pilon	836	correct
+3284227	3284430	204	1	NC_020133.1	NODE_477_length_831_cov_2.373580_pilon_pilon_pilon_pilon	100.0		True
+indel: indel (> 5bp)
+3283516	3284160	831	205	NC_020133.1	NODE_477_length_831_cov_2.373580_pilon_pilon_pilon_pilon	96.59		True
+CONTIG	NODE_477_length_831_cov_2.373580_pilon_pilon_pilon_pilon	831	correct
+4155760	4156426	820	153	NC_020133.1	NODE_478_length_820_cov_7.835498_pilon_pilon_pilon_pilon	99.1		True
+CONTIG	NODE_478_length_820_cov_7.835498_pilon_pilon_pilon_pilon	820	correct
+1688298	1689085	5	792	NC_020133.1	NODE_479_length_792_cov_0.996992_pilon_pilon_pilon_pilon	99.11		True
+CONTIG	NODE_479_length_792_cov_0.996992_pilon_pilon_pilon_pilon	792	correct
+1413742	1414403	122	783	NC_020133.1	NODE_480_length_783_cov_10.131098_pilon_pilon_pilon_pilon	99.7		True
+CONTIG	NODE_480_length_783_cov_10.131098_pilon_pilon_pilon_pilon	783	correct
+4373196	4373977	780	1	NC_020133.1	NODE_481_length_780_cov_1.312404_pilon_pilon_pilon_pilon	96.08		True
+CONTIG	NODE_481_length_780_cov_1.312404_pilon_pilon_pilon_pilon	780	correct
+102063	102189	127	1	NC_020133.1	NODE_482_length_749_cov_8.204180_pilon_pilon_pilon_pilon	98.43		True
+relocation, inconsistency = 6058839
+6161055	6161523	154	622	NC_020133.1	NODE_482_length_749_cov_8.204180_pilon_pilon_pilon_pilon	99.36		True
+indel: indel (> 5bp)
+6161595	6161721	623	749	NC_020133.1	NODE_482_length_749_cov_8.204180_pilon_pilon_pilon_pilon	98.43		True
+CONTIG	NODE_482_length_749_cov_8.204180_pilon_pilon_pilon_pilon	749	misassembled
+CONTIG	NODE_483_length_737_cov_22.678689_pilon_pilon_pilon_pilon	737	unaligned
+CONTIG	NODE_484_length_716_cov_110.541596_pilon_pilon_pilon_pilon	716	unaligned
+CONTIG	NODE_485_length_698_cov_0.635727_pilon_pilon_pilon_pilon	698	unaligned
+1049727	1050162	132	567	NC_020133.1	NODE_486_length_688_cov_8.875223_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_486_length_688_cov_8.875223_pilon_pilon_pilon_pilon	688	correct
+5195823	5196251	556	128	NC_020133.1	NODE_487_length_683_cov_8.190647_pilon_pilon_pilon_pilon	99.53		True
+CONTIG	NODE_487_length_683_cov_8.190647_pilon_pilon_pilon_pilon	683	correct
+CONTIG	NODE_488_length_669_cov_107.000000_pilon_pilon_pilon_pilon	669	unaligned
+CONTIG	NODE_489_length_668_cov_0.804067_pilon_pilon_pilon_pilon	668	unaligned
+CONTIG	NODE_490_length_664_cov_1.154562_pilon_pilon_pilon_pilon	664	unaligned
+6063691	6064149	10	462	NC_020133.1	NODE_491_length_659_cov_2.513158_pilon_pilon_pilon_pilon	96.95		True
+indel: indel (> 5bp)
+6064276	6064472	463	659	NC_020133.1	NODE_491_length_659_cov_2.513158_pilon_pilon_pilon_pilon	99.49		True
+CONTIG	NODE_491_length_659_cov_2.513158_pilon_pilon_pilon_pilon	659	correct
+2582527	2582887	529	169	NC_020133.1	NODE_492_length_657_cov_8.254717_pilon_pilon_pilon_pilon	99.72		True
+CONTIG	NODE_492_length_657_cov_8.254717_pilon_pilon_pilon_pilon	657	correct
+CONTIG	NODE_493_length_649_cov_0.896552_pilon_pilon_pilon_pilon	649	unaligned
+CONTIG	NODE_494_length_645_cov_0.781190_pilon_pilon_pilon_pilon	645	unaligned
+4667332	4667854	1	523	NC_020133.1	NODE_495_length_645_cov_7.797297_pilon_pilon_pilon_pilon	99.04		True
+CONTIG	NODE_495_length_645_cov_7.797297_pilon_pilon_pilon_pilon	645	correct
+5663740	5663834	465	559	NC_020133.1	NODE_496_length_643_cov_0.885659_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_496_length_643_cov_0.885659_pilon_pilon_pilon_pilon	643	correct
+CONTIG	NODE_497_length_643_cov_0.806202_pilon_pilon_pilon_pilon	643	unaligned
+CONTIG	NODE_498_length_642_cov_0.932039_pilon_pilon_pilon_pilon	642	unaligned
+654793	655425	633	1	NC_020133.1	NODE_499_length_633_cov_6.035526_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_499_length_633_cov_6.035526_pilon_pilon_pilon_pilon	633	correct
+1457107	1457680	1	565	NC_020133.1	NODE_500_length_629_cov_0.966135_pilon_pilon_pilon_pilon	95.82		True
+CONTIG	NODE_500_length_629_cov_0.966135_pilon_pilon_pilon_pilon	629	correct
+1961972	1962599	628	1	NC_020133.1	NODE_501_length_628_cov_8.422517_pilon_pilon_pilon_pilon	99.68		True
+CONTIG	NODE_501_length_628_cov_8.422517_pilon_pilon_pilon_pilon	628	correct
+CONTIG	NODE_502_length_624_cov_3.352113_pilon_pilon_pilon_pilon	624	unaligned
+CONTIG	NODE_503_length_622_cov_0.624242_pilon_pilon_pilon_pilon	622	unaligned
+295083	295575	493	1	NC_020133.1	NODE_504_length_621_cov_6.172065_pilon_pilon_pilon_pilon	99.59		True
+CONTIG	NODE_504_length_621_cov_6.172065_pilon_pilon_pilon_pilon	621	correct
+943703	944193	1	491	NC_020133.1	NODE_505_length_617_cov_5.895918_pilon_pilon_pilon_pilon	98.98		True
+CONTIG	NODE_505_length_617_cov_5.895918_pilon_pilon_pilon_pilon	617	correct
+3281964	3282040	86	10	NC_020133.1	NODE_506_length_615_cov_1.629098_pilon_pilon_pilon_pilon	98.8		True
+local misassembly
+3282086	3282623	615	87	NC_020133.1	NODE_506_length_615_cov_1.629098_pilon_pilon_pilon_pilon	97.96		True
+CONTIG	NODE_506_length_615_cov_1.629098_pilon_pilon_pilon_pilon	615	correct
+3978630	3979240	611	1	NC_020133.1	NODE_507_length_611_cov_7.926829_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_507_length_611_cov_7.926829_pilon_pilon_pilon_pilon	611	correct
+CONTIG	NODE_508_length_610_cov_1.596273_pilon_pilon_pilon_pilon	610	unaligned
+655426	656034	609	1	NC_020133.1	NODE_509_length_609_cov_4.709544_pilon_pilon_pilon_pilon	99.84		True
+CONTIG	NODE_509_length_609_cov_4.709544_pilon_pilon_pilon_pilon	609	correct
+CONTIG	NODE_510_length_604_cov_0.930818_pilon_pilon_pilon_pilon	604	unaligned
+1455945	1456539	1	595	NC_020133.1	NODE_511_length_595_cov_2.288462_pilon_pilon_pilon_pilon	97.31		True
+CONTIG	NODE_511_length_595_cov_2.288462_pilon_pilon_pilon_pilon	595	correct
+CONTIG	NODE_512_length_595_cov_0.903846_pilon_pilon_pilon_pilon	595	unaligned
+CONTIG	NODE_513_length_594_cov_0.835118_pilon_pilon_pilon_pilon	594	unaligned
+943543	943735	193	1	NC_020133.1	NODE_514_length_594_cov_0.824411_pilon_pilon_pilon_pilon	98.96		True
+indel: indel (> 5bp)
+943112	943512	594	194	NC_020133.1	NODE_514_length_594_cov_0.824411_pilon_pilon_pilon_pilon	98.5		True
+CONTIG	NODE_514_length_594_cov_0.824411_pilon_pilon_pilon_pilon	594	correct
+4965715	4965936	591	370	NC_020133.1	NODE_515_length_591_cov_8.256466_pilon_pilon_pilon_pilon	98.65		True
+CONTIG	NODE_515_length_591_cov_8.256466_pilon_pilon_pilon_pilon	591	correct
+CONTIG	NODE_516_length_588_cov_0.537961_pilon_pilon_pilon_pilon	588	unaligned
+CONTIG	NODE_517_length_584_cov_1.080963_pilon_pilon_pilon_pilon	584	unaligned
+CONTIG	NODE_518_length_582_cov_0.507692_pilon_pilon_pilon_pilon	583	unaligned
+1794991	1795110	243	124	NC_020133.1	NODE_519_length_577_cov_5.282222_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = 1376
+1793282	1793614	577	244	NC_020133.1	NODE_519_length_577_cov_5.282222_pilon_pilon_pilon_pilon	99.4		True
+CONTIG	NODE_519_length_577_cov_5.282222_pilon_pilon_pilon_pilon	577	misassembled
+5473433	5473927	497	1	NC_020133.1	NODE_520_length_577_cov_3.835556_pilon_pilon_pilon_pilon	99.4		True
+relocation, inconsistency = 4025
+5469333	5469407	498	572	NC_020133.1	NODE_520_length_577_cov_3.835556_pilon_pilon_pilon_pilon	97.56		True
+CONTIG	NODE_520_length_577_cov_3.835556_pilon_pilon_pilon_pilon	577	misassembled
+CONTIG	NODE_521_length_575_cov_0.488839_pilon_pilon_pilon_pilon	575	unaligned
+3363236	3363549	123	437	NC_020133.1	NODE_522_length_570_cov_11.693002_pilon_pilon_pilon_pilon	99.37		True
+relocation, inconsistency = 293200
+3656752	3656882	570	440	NC_020133.1	NODE_522_length_570_cov_11.693002_pilon_pilon_pilon_pilon	98.47		True
+CONTIG	NODE_522_length_570_cov_11.693002_pilon_pilon_pilon_pilon	570	misassembled
+5107211	5107773	563	1	NC_020133.1	NODE_523_length_563_cov_6.521739_pilon_pilon_pilon_pilon	99.64		True
+CONTIG	NODE_523_length_563_cov_6.521739_pilon_pilon_pilon_pilon	563	correct
+CONTIG	NODE_524_length_561_cov_0.928571_pilon_pilon_pilon_pilon	561	unaligned
+CONTIG	NODE_525_length_561_cov_0.682028_pilon_pilon_pilon_pilon	561	unaligned
+4895450	4895759	432	123	NC_020133.1	NODE_526_length_560_cov_12.833718_pilon_pilon_pilon_pilon	99.03		True
+relocation, inconsistency = 33171
+4862151	4862277	560	434	NC_020133.1	NODE_526_length_560_cov_12.833718_pilon_pilon_pilon_pilon	99.21		True
+CONTIG	NODE_526_length_560_cov_12.833718_pilon_pilon_pilon_pilon	560	misassembled
+CONTIG	NODE_527_length_560_cov_0.863741_pilon_pilon_pilon_pilon	560	unaligned
+CONTIG	NODE_528_length_542_cov_0.915663_pilon_pilon_pilon_pilon	542	unaligned
+CONTIG	NODE_529_length_539_cov_0.783981_pilon_pilon_pilon_pilon	539	unaligned
+CONTIG	NODE_530_length_536_cov_0.997555_pilon_pilon_pilon_pilon	536	unaligned
+3279080	3279605	535	1	NC_020133.1	NODE_531_length_535_cov_2.394608_pilon_pilon_pilon_pilon	97.76		True
+CONTIG	NODE_531_length_535_cov_2.394608_pilon_pilon_pilon_pilon	535	correct
+CONTIG	NODE_532_length_535_cov_0.791667_pilon_pilon_pilon_pilon	535	unaligned
+CONTIG	NODE_533_length_535_cov_0.622549_pilon_pilon_pilon_pilon	535	unaligned
+664415	664926	534	23	NC_020133.1	NODE_534_length_534_cov_2.245700_pilon_pilon_pilon_pilon	99.22		True
+CONTIG	NODE_534_length_534_cov_2.245700_pilon_pilon_pilon_pilon	534	correct
+CONTIG	NODE_535_length_533_cov_0.615764_pilon_pilon_pilon_pilon	533	unaligned
+CONTIG	NODE_536_length_531_cov_1.225248_pilon_pilon_pilon_pilon	532	unaligned
+CONTIG	NODE_537_length_526_cov_1.238095_pilon_pilon_pilon_pilon	526	unaligned
+4631496	4631633	138	1	NC_020133.1	NODE_538_length_525_cov_7.567839_pilon_pilon_pilon_pilon	95.65		True
+CONTIG	NODE_538_length_525_cov_7.567839_pilon_pilon_pilon_pilon	525	correct
+CONTIG	NODE_539_length_520_cov_0.903308_pilon_pilon_pilon_pilon	520	unaligned
+CONTIG	NODE_540_length_515_cov_0.951031_pilon_pilon_pilon_pilon	515	unaligned
+4917643	4918040	1	398	NC_020133.1	NODE_541_length_503_cov_2.117021_pilon_pilon_pilon_pilon	99.25		True
+CONTIG	NODE_541_length_503_cov_2.117021_pilon_pilon_pilon_pilon	503	correct
+2761203	2761578	124	499	NC_020133.1	NODE_542_length_501_cov_8.828877_pilon_pilon_pilon_pilon	99.47		True
+CONTIG	NODE_542_length_501_cov_8.828877_pilon_pilon_pilon_pilon	501	correct

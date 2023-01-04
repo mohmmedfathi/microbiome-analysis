@@ -1,0 +1,142 @@
+/home/alaa/anaconda3/bin/quast.py -o QC_ASSEMBLY -R genomes/Liflandii.fasta P7741_SPADES_OUT/scaffolds.fasta P7741.polished.fasta
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-5.15.0-56-generic-x86_64-with-glibc2.35 (linux_64)
+  Python version: 3.9.7
+  CPUs number: 12
+
+Started: 2022-12-21 19:35:48
+
+Logging to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/quast.log
+NOTICE: Maximum number of threads is set to 3 (use --threads option to set it manually)
+
+CWD: /home/alaa/bacterial-genomics-tutorial
+Main parameters: 
+  MODE: default, threads: 3, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /home/alaa/bacterial-genomics-tutorial/genomes/Liflandii.fasta ==> Liflandii
+
+Contigs:
+  Pre-processing...
+  1  P7741_SPADES_OUT/scaffolds.fasta ==> scaffolds
+  2  P7741.polished.fasta ==> P7741.polished
+
+2022-12-21 19:35:49
+Running Basic statistics processor...
+  Reference genome:
+    Liflandii.fasta, length = 6208955, num fragments = 1, GC % = 65.62
+  Contig files: 
+    1  scaffolds
+    2  P7741.polished
+  Calculating N50 and L50...
+    1  scaffolds, N50 = 19498, L50 = 87, auN = 23825.9, Total length = 5445350, GC % = 65.44, # N's per 100 kbp =  5.73
+    2  P7741.polished, N50 = 19517, L50 = 86, auN = 23827.1, Total length = 5444800, GC % = 65.44, # N's per 100 kbp =  0.35
+  Drawing Nx plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/GC_content_plot.pdf
+  Drawing scaffolds GC content plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/scaffolds_GC_content_plot.pdf
+  Drawing P7741.polished GC content plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/P7741.polished_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/coverage_histogram.pdf
+  Drawing scaffolds coverage histogram (bin size: 1x)...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/scaffolds_coverage_histogram.pdf
+  Drawing P7741.polished coverage histogram (bin size: 1x)...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/basic_stats/P7741-polished_coverage_histogram.pdf
+Done.
+
+2022-12-21 19:35:51
+Running Contig analyzer...
+Compiling Minimap2 (details are in /home/alaa/anaconda3/lib/python3.9/site-packages/quast_libs/minimap2/make.log and make.err)
+make -C /home/alaa/anaconda3/lib/python3.9/site-packages/quast_libs/minimap2 >> /home/alaa/anaconda3/lib/python3.9/site-packages/quast_libs/minimap2/make.log \
+2>> /home/alaa/anaconda3/lib/python3.9/site-packages/quast_libs/minimap2/make.err
+  1  scaffolds
+  2  P7741.polished
+  1  Logging to files /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/contigs_reports/contigs_report_scaffolds.stdout and contigs_report_scaffolds.stderr...
+  2  Logging to files /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/contigs_reports/contigs_report_P7741-polished.stdout and contigs_report_P7741-polished.stderr...
+  1  Aligning contigs to the reference
+  2  Aligning contigs to the reference
+  2  /home/alaa/anaconda3/lib/python3.9/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level \
+     0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 QC_ASSEMBLY/quast_corrected_input/Liflandii.fasta \
+     QC_ASSEMBLY/quast_corrected_input/P7741-polished.fasta > QC_ASSEMBLY/contigs_reports/minimap_output/P7741-polished.coords_tmp \
+     2>> QC_ASSEMBLY/contigs_reports/contigs_report_P7741-polished.stderr
+  1  /home/alaa/anaconda3/lib/python3.9/site-packages/quast_libs/minimap2/minimap2 \
+     -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level \
+     0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 QC_ASSEMBLY/quast_corrected_input/Liflandii.fasta \
+     QC_ASSEMBLY/quast_corrected_input/scaffolds.fasta > QC_ASSEMBLY/contigs_reports/minimap_output/scaffolds.coords_tmp \
+     2>> QC_ASSEMBLY/contigs_reports/contigs_report_scaffolds.stderr
+  2  Analysis is finished.
+
+  1  Analysis is finished.
+
+  Creating total report...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2022-12-21 19:36:00
+Running NA-NGA calculation...
+  1  scaffolds, Largest alignment = 67161, NA50 = 16043, NGA50 = 13796, LA50 = 103, LGA50 = 129
+  2  P7741.polished, Largest alignment = 67161, NA50 = 16043, NGA50 = 13796, LA50 = 103, LGA50 = 129
+  Drawing cumulative plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/aligned_stats/NGAx_plot.pdf
+Done.
+
+2022-12-21 19:36:01
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  1  scaffolds
+  2  P7741.polished
+  1  Analysis is finished.
+  2  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2022-12-21 19:36:02
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2022-12-21 19:36:04
+RESULTS:
+  Text versions of total report are saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/report.html
+  PDF version (tables and plots) is saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/report.pdf
+  Icarus (contig browser) is saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/icarus.html
+  Log is saved to /home/alaa/bacterial-genomics-tutorial/QC_ASSEMBLY/quast.log
+
+Finished: 2022-12-21 19:36:04
+Elapsed time: 0:00:15.908085
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

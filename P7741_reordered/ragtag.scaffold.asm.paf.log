@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.130*1.01] collected minimizers
+[M::mm_idx_gen::0.165*1.01] sorted minimizers
+[M::main::0.165*1.01] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.172*1.01] mid_occ = 177
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.177*1.01] distinct minimizers: 586298 (99.27% are singletons); average occurrences: 1.058; average spacing: 10.014; total length: 6208955
+[M::worker_pipeline::0.619*1.00] mapped 2459 sequences
+[M::main] Version: 2.21-r1071
+[M::main] CMD: minimap2 -x asm5 -t 1 /home/alaa/bacterial-genomics-tutorial/genomes/Liflandii.fasta /home/alaa/bacterial-genomics-tutorial/P7741.polished.fasta
+[M::main] Real time: 0.622 sec; CPU: 0.623 sec; Peak RSS: 0.045 GB

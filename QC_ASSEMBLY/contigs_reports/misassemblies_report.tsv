@@ -1,0 +1,21 @@
+Assembly	scaffolds	P7741.polished
+# misassemblies	130	130
+  # contig misassemblies	130	130
+    # c. relocations	125	124
+    # c. translocations	0	0
+    # c. inversions	5	6
+  # scaffold misassemblies	0	0
+    # s. relocations	0	0
+    # s. translocations	0	0
+    # s. inversions	0	0
+# misassembled contigs	103	103
+Misassembled contigs length	1617064	1617064
+# local misassemblies	32	32
+# scaffold gap ext. mis.	0	0
+# scaffold gap loc. mis.	1	0
+# unaligned mis. contigs	4	4
+# mismatches	17957	17948
+# indels	1408	1406
+    # indels (<= 5 bp)	1014	1013
+    # indels (> 5 bp)	394	393
+Indels length	12624	12524
