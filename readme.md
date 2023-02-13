@@ -56,10 +56,7 @@ This is meant to improve the draft assembly. The scaffolds will be used. You can
 ./qc_assembly.sh
 ```
 
-### :hammer: Step 8: Generate draft genome by reordering contigs against a reference genome using ragtag\
-```
-./reorder_contigs.sh
-```
+
 ## :warning: citation
 this work is done depends on 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5830445/
