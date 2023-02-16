@@ -77,5 +77,3 @@ This is meant to improve the draft assembly. The scaffolds will be used. You can
 ## :warning: citation
 this work is done depends on 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5830445/
-
-![Screenshot from 2023-02-13 11-01-55](https://user-images.githubusercontent.com/64088888/218415044-8f332f6c-11d1-41c2-88ce-4863d6bf1158.png)
