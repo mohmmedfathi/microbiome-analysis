@@ -77,3 +77,67 @@ This is meant to improve the draft assembly. The scaffolds will be used. You can
 ## :warning: citation
 this work is done depends on 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5830445/
+
+
+
+<br>
+<br>
+
+<hr>
+
+
+# Hadoop 
+Hadoop, a distributed computing framework, can greatly enhance the scalability and efficiency of processing large-scale metagenomics data.
+we will provides a guide and code examples for leveraging Hadoop in metagenomics analysis.
+
+## Introduction
+## Installation
+There are two ways to install Hadoop, i.e. Single node and 
+Multi-node.
+◦ A single node cluster : means only one DataNode running and 
+setting up all the NameNode, DataNode, ResourceManager, and 
+NodeManager on a single machine. This is used for studying and 
+testing purposes.
+<br>
+◦ Multi-node cluster: there are more than one DataNode running and 
+each DataNode is running on different machines. The multi-node 
+cluster is practically used in organizations for analyzing Big Data.
+
+PREREQUISITES
+1. You must have Java installed (at least Java 8) <br>
+sudo apt-get install openjdk-8-jdk
+2.  Install ssh
+ sudo apt-get install ssh
+
+SSH (Secure Shell) is a software package that enables secure system administration and file transfers over insecure networks. It is used in nearly every data center and in every large enterprise.
+Download the Hadoop 3.3.0 Package using the following command :
+
+• wget http://archive.apache.org/dist/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz
+
+Extract the archive file:
+• tar -xvf hadoop-3.3.0.tar.gz
+
+Createhadoopdirectory:
+• sudo mkdir /usr/local/hadoop
+
+Change the directory to: 
+• cd hadoop-3.3.0
+
+Move the extracted file to /usr/local/hadoop directory: 
+• sudo mv * /usr/local/hadoop
+
+Add The Hadoop And Java Paths In The Bash File (.Bashrc)
+sudo gedit .bashrc
+
+For applying all these changes to the current Terminal, execute the source command.
+◦ source .bashrc
+We want to make sure that Java and Hadoop have been properly installed on
+our system :
+◦ java –version
+◦ hadoop version
+
+##Set up Hadoop Configuration
+cd /usr/local/hadoop/etc/hadoop
+sudo gedit hadoop-env.sh
+## Usage
+
