@@ -91,12 +91,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5830445/
 Hadoop, a distributed computing framework, can greatly enhance the scalability and efficiency of processing large-scale metagenomics data.
 we will provides a guide and code examples for leveraging Hadoop in metagenomics analysis.
 
-## Introduction
+## Introduction :microbe:
 This repository aims to provide a comprehensive guide on how to use Hadoop for metagenomics analysis, including setup instructions, usage guidelines, and example code snippets. It covers the necessary steps to process metagenomics data in a distributed manner using Hadoop MapReduce,Spark.
 
 ## Built With : 
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 * ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 * ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -123,9 +124,19 @@ sudo apt-get install openjdk-8-jdk
 ```
 
 <br>
-Install ssh sudo apt-get install ssh <br>
-SSH (Secure Shell) is a software package that enables secure system administration and file transfers over insecure networks. It is used in nearly every data center and in every large enterprise. <br>
-Download the Hadoop 3.3.0 Package using the following command : <br>
+### SSH :beginner: 
+
+(Secure Shell) is a software package that enables secure system administration and file transfers over insecure networks. It is used in nearly every data center and in every large enterprise. <br>
+
+Install ssh :open_file_folder: :
+
+```bash
+sudo apt-get install ssh  
+```
+
+
+
+### Download the Hadoop 3.3.0 Package using the following command 🛠️ : <br>
 
 * wget http://archive.apache.org/dist/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz
 
@@ -144,15 +155,18 @@ Download the Hadoop 3.3.0 Package using the following command : <br>
 ![WhatsApp Image 2023-07-03 at 11 15 05 PM](https://github.com/mohmmedfathi/microbiome-analysis/assets/64088888/c103dfd9-aaac-4091-a8d6-b79b5a058839)
 
 <br>
-For applying all these changes to the current Terminal, execute the source command. <br>
-◦ source .bashrc We want to make sure that Java and Hadoop have been properly installed on our system <br>
-: ◦ java –version ◦ hadoop version
+:pushpin: For applying all these changes to the current Terminal, execute the source command. <br>
+◦ source .bashrc  <br>
+We want to make sure that Java and Hadoop have been properly installed on our system : 
+* java –version 
+* hadoop version
 
 <br>
 
-## Set up Hadoop Configuration 
-
+##  :radio_button: Set up Hadoop Configuration 
+```bash
 cd /usr/local/hadoop/etc/hadoop sudo gedit hadoop-env.sh
+```
 
 <br>
 
@@ -160,31 +174,31 @@ cd /usr/local/hadoop/etc/hadoop sudo gedit hadoop-env.sh
 
 <br>
 
-Edit core-site.xml file: <br>
+ :radio_button: Edit core-site.xml file: <br>
 sudo gedit core-site.xml 
 
 ![WhatsApp Image 2023-07-03 at 11 26 52 PM](https://github.com/mohmmedfathi/microbiome-analysis/assets/64088888/d6d9057e-8d63-40f4-b712-893fc7675981)
 <br>
 
-Edit hdfs-site.xml
+ :radio_button: Edit hdfs-site.xml
 sudo gedit hdfs-site.xml
 ![WhatsApp Image 2023-07-03 at 11 28 25 PM](https://github.com/mohmmedfathi/microbiome-analysis/assets/64088888/e9122366-f85e-43c2-809e-a0413ad1c181)
 
 <br>
-Edit yarn-site.xml file:
+ :radio_button: Edit yarn-site.xml file:
 sudo gedit yarn-site.xml
 
 ![WhatsApp Image 2023-07-03 at 11 29 16 PM](https://github.com/mohmmedfathi/microbiome-analysis/assets/64088888/a32eae88-d4d3-4398-8a5e-731be8f3bea5)
 
 <br>
-Edit mapred-site.xml file:
+ :radio_button: Edit mapred-site.xml file:
 sudo gedit mapred-site.xml
 
 ![WhatsApp Image 2023-07-03 at 11 30 21 PM](https://github.com/mohmmedfathi/microbiome-analysis/assets/64088888/a9fa8ed1-4dd2-4107-8db1-8206a02031c4)
 <br>
 
 ### Create Master And Workers Files
-<details><summary><b>Connect to localhost :</b></summary>
+<details><summary><b>Connect to localhost :bangbang: :</b></summary>
 ssh localhost
 ssh-keygen -t rsa -P '' -f ~/.ssh/id_rsa
 cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
