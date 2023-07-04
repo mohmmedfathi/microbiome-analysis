@@ -377,3 +377,9 @@ my data is two file, file for forward DNA sequence and reverse DNA sequence so r
 
 the combination of Spark and HDFS provides a versatile and scalable platform for data processing, making it well-suited for a wide range of tasks including ML processing, graph analysis, genome assembly, and bioinformatics using R and Bioconducto
 
+### conclusion
+**By following the instructions and examples provided in this repository**, you will be able to leverage **Hadoop and Spark** to efficiently analyze metagenomics data in a distributed manner. Whether you are working with a small-scale dataset or dealing with big data, Hadoop and Spark can help you process and analyze the data effectively, enabling you to gain valuable insights into the microbial communities.
+
+We hope that this repository serves as a valuable resource for researchers and practitioners in the field of metagenomics analysis. By harnessing the power of Hadoop and Spark, you can unlock new possibilities in understanding and exploring the complex world of microbiomes.
+
+
