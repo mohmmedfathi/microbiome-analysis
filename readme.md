@@ -92,6 +92,14 @@ Hadoop, a distributed computing framework, can greatly enhance the scalability a
 we will provides a guide and code examples for leveraging Hadoop in metagenomics analysis.
 
 ## Introduction
+This repository aims to provide a comprehensive guide on how to use Hadoop for metagenomics analysis, including setup instructions, usage guidelines, and example code snippets. It covers the necessary steps to process metagenomics data in a distributed manner using Hadoop MapReduce,Spark.
+
+## Built With : 
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+* ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Installation
 
@@ -288,8 +296,6 @@ Now, open your browser: http://localhost:9870
 to open hadoop cluster use http://localhost:8088
 ![clusterAfterNode2](https://github.com/mohmmedfathi/microbiome-analysis/assets/64088888/f48df71a-b4d4-481f-b4cd-f7b3b22c2929)
 
-
-now you finish multi node cluster 
 
 
  
