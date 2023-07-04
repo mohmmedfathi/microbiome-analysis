@@ -91,55 +91,8 @@ Hadoop, a distributed computing framework, can greatly enhance the scalability a
 we will provides a guide and code examples for leveraging Hadoop in metagenomics analysis.
 
 ## Introduction
+
 ## Installation
-There are two ways to install Hadoop, i.e. Single node and 
-Multi-node.
-◦ A single node cluster : means only one DataNode running and 
-setting up all the NameNode, DataNode, ResourceManager, and 
-NodeManager on a single machine. This is used for studying and 
-testing purposes.
-<br>
-◦ Multi-node cluster: there are more than one DataNode running and 
-each DataNode is running on different machines. The multi-node 
-cluster is practically used in organizations for analyzing Big Data.
-
-PREREQUISITES
-1. You must have Java installed (at least Java 8) <br>
-sudo apt-get install openjdk-8-jdk
-2.  Install ssh
- sudo apt-get install ssh
-
-SSH (Secure Shell) is a software package that enables secure system administration and file transfers over insecure networks. It is used in nearly every data center and in every large enterprise.
-Download the Hadoop 3.3.0 Package using the following command :
-
-• wget http://archive.apache.org/dist/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz
-
-Extract the archive file:
-• tar -xvf hadoop-3.3.0.tar.gz
-
-Createhadoopdirectory:
-• sudo mkdir /usr/local/hadoop
-
-Change the directory to: 
-• cd hadoop-3.3.0
-
-Move the extracted file to /usr/local/hadoop directory: 
-• sudo mv * /usr/local/hadoop
-
-Add The Hadoop And Java Paths In The Bash File (.Bashrc)
-sudo gedit .bashrc
-
-For applying all these changes to the current Terminal, execute the source command.
-◦ source .bashrc
-We want to make sure that Java and Hadoop have been properly installed on
-our system :
-◦ java –version
-◦ hadoop version
-
-##Set up Hadoop Configuration
-cd /usr/local/hadoop/etc/hadoop
-sudo gedit hadoop-env.sh
-## Usage
 
 
 There are two ways to install Hadoop
@@ -222,14 +175,14 @@ sudo gedit mapred-site.xml
 <br>
 
 ### Create Master And Workers Files
-<details><summary><b>Connect to localhost:</b></summary>
+<details><summary><b>Connect to localhost :</b></summary>
 ssh localhost
 ssh-keygen -t rsa -P '' -f ~/.ssh/id_rsa
 cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 chmod 0600 ~/.ssh/authorized_keys
  </details>
 
-<details><summary><b>Connect to localhost:</b></summary>
+
 
 Make 2 directory to name node and data node
 ```
@@ -339,7 +292,7 @@ now you finish multi node cluster
 
 
  
-### now we need to add spark framework to cluster 
+### add spark framework to cluster 
 
 what is spark :
 Spark is an open-source distributed computing system for big data processing. It offers high-speed processing, fault tolerance, and supports various tasks like batch processing, real-time streaming, machine learning, and graph processing. It's flexible, integrates with other tools, and is widely used for efficient data analysis.
